@@ -24,10 +24,4 @@ bookdown::gitbook:
       github: yes
       facebook: no
       twitter: yes
-bookdown::pdf_book:
-  includes:
-    in_header: preamble.tex
-  latex_engine: xelatex
-  citation_package: natbib
-  keep_tex: yes
-bookdown::epub_book: default
+

@@ -57,8 +57,6 @@ ds4p_status$Status <- round(
 ```
 
 
-This website is constantly changing. This new course is in active development, and approximately `r round(mean(ds4p_status$Status,na.rm = TRUE),digits = 3)*100`% done. I have made this process explicitly transparent because I want you to see how you can use R to produce some pretty neat things. Indeed, I've included the source code for this website in the class [github](https://github.com/DataScience4Psych). I encourage you to contribute to the [course code](https://github.com/DataScience4Psych/DataScience4Psych). If you catch typos, errors, please issue a pull request with the fixes. If you find cool / useful resources, please add them. By the end of the semester, I would love for everyone to have contributed to the course materials. It can be as simple as adding a course request to the [wishlist](#course-wishlist). I believe that it is useful skill to be able to do. 
-
 
 
 ### How to use these notes {-}
