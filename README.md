@@ -1,16 +1,10 @@
-# Class Description:
-
-Data Science for Psychologists (DSP) introduces on the principles of data science, including data wrangling, modeling, visualization, and communication. In this class, we link those principles to psychological methods and open science practices by emphasizing exploratory analyses and description, rather than confirmatory analyses and prediction. We'll work our way thru Wickham and Grolemund's R for Data Science text (http://r4ds.had.co.nz/) and develop expertise in tidyverse (https://www.tidyverse.org/). This class emphasizes replication and reproducibility. DSP is a practical skilled-based class and should be useful to students aiming for academia as well as those interested in industry. Applications of these methods can be applied to a full range of psychological areas, including perception (e.g, eye-tracking data), neuroscience (e.g., visualizing neural networks), and individual differences (e.g., valence analysis).
-
-Please look at the course website for [specifics](https://datascience4psych.github.io/DataScience4Psych)
-
 # FAQ
 
 ## How do I download this material and keep up to date with any changes?
 
 Please note that this is a work in progress, with new material being added every week. 
 
-If you just want to read the lecture slides or HTML notebooks in your browser, then you should simply head over to the [course website](https://datascience4psych.github.io/DataScience4Psych). Remember to check back in regularly to get any updates. Or, you can watch or star the repo to get notified automatically.
+If you just want to read the lecture slides or HTML notebooks in your browser, then you should simply head over to the [course website](https://datascience4psych.github.io/QPAWG). Remember to check back in regularly to get any updates. Or, you can watch or star the repo to get notified automatically.
 
 
 
@@ -20,17 +14,17 @@ Please [open a new issue](https://help.github.com/articles/creating-an-issue/). 
 
 # Credits
 
-[See the attribution page for specifics]( https://datascience4psych.github.io/DataScience4Psych/front-matter.html#attribution)
+[See the attribution page for specifics]( https://datascience4psych.github.io/QPAWG/front-matter.html#attribution)
 
 
 ## How to cite these notes
 
-Garrison, S. Mason. (2021). Data Science for Psychologists. Retrieved year-month-day from [URL].
+QPAWG (2021). QPAWG. Retrieved year-month-day from [URL].
 
 # In-progress
 
-These course notes are a living document. Some sections have been written while others are still under construction. If the parts you are interested in aren't finished yet, please check back at a later time. Feedback and suggestions are welcome.
+These notes are a living document. Some sections have been written while others are still under construction. If the parts you are interested in aren't finished yet, please check back at a later time. Feedback and suggestions are welcome.
 
 # License
 
-This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. More details can be found [here](https://datascience4psych.github.io/DataScience4Psych/license.html).
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. More details can be found [here](https://datascience4psych.github.io/QPAWG/license.html).
