@@ -4,7 +4,7 @@
 
 Please note that this is a work in progress, with new material being added every week. 
 
-If you just want to read the lecture slides or HTML notebooks in your browser, then you should simply head over to the [course website](https://datascience4psych.github.io/QPAWG). Remember to check back in regularly to get any updates. Or, you can watch or star the repo to get notified automatically.
+If you just want to read the lecture slides or HTML notebooks in your browser, then you should simply head over to the [course website](https://r-computing-lab.github.io/QPAWG/). Remember to check back in regularly to get any updates. Or, you can watch or star the repo to get notified automatically.
 
 
 
@@ -14,7 +14,7 @@ Please [open a new issue](https://help.github.com/articles/creating-an-issue/). 
 
 # Credits
 
-[See the attribution page for specifics]( https://datascience4psych.github.io/QPAWG/front-matter.html#attribution)
+[See the attribution page for specifics]( https://r-computing-lab.github.io/QPAWG/front-matter.html#attribution)
 
 
 ## How to cite these notes
@@ -27,4 +27,4 @@ These notes are a living document. Some sections have been written while others 
 
 # License
 
-This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. More details can be found [here](https://datascience4psych.github.io/QPAWG/license.html).
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. More details can be found [here](https://r-computing-lab.github.io/QPAWG/license.html).
