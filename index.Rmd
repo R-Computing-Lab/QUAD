@@ -1,6 +1,6 @@
 --- 
-title: "Data Science for Psychologists"
-subtitle: "A Refreshed Exploratory & Graphical Data Analysis in R"
+title: "Quantitative Methods Outreach Group"
+subtitle: "Quantitative Methods Outreach Group"
 author: 
 - Quantitative Methods Outreach Group
 date: "`r Sys.Date()`"
@@ -14,7 +14,7 @@ documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-description: "PSY 703: Data Science for Psychologists: A Refreshed Exploratory and Graphical Data Analysis in R"
+description: "Quantitative Methods Outreach Group"
 favicon: assets/favicon.ico
 
 ---
@@ -22,7 +22,7 @@ favicon: assets/favicon.ico
 
 # (PART\*) Front Matter {-}
 
-# Welcome to PSY 703 {-}
+# Welcome to Quantitative Methods Outreach Group {-}
 
 
 ```{r include = FALSE}
@@ -43,20 +43,6 @@ embed_url("https://www.youtube.com/watch?v=nYYJmmcgzr8") %>%
 ```
 
 
-## Mason Notes {-}
-
-
-```{r message = FALSE, warning = FALSE, echo = FALSE}
-
-ds4p_status <- read_csv("data/ds4p_status.csv")
-ds4p_status$Status <- round(
-                          rowMeans(
-                            ds4p_status[,2:6],
-                            na.rm = TRUE),
-                          digits = 3)
-```
-
-
 
 
 ### How to use these notes {-}
@@ -69,7 +55,7 @@ Every module corresponds to a weeks worth of material. Most modules are dedicate
 
 Although these notes share some of the features of a textbook, they are neither comprehensive nor completely original. The main purpose is to give you all a set of common materials on which to draw during the course. In class, we will sometimes do things outside the notes. The idea here is that you will read the materials and try to learn from them, just as you will attend classes and try to learn from them.
 
-### Status of course {-}
+### Status of book {-}
 
 In terms of timing, I will have each module completed by the start of the week. Given that the class meets either on Monday or Friday, the start of the "week" will be Wednesday at 12 p.m. EST. It is possible that I will get ahead of this deadline. You can see the current status of the course below. Although you are welcome to work ahead, be aware that I will be making changes to modules that haven't officially started yet. In addition, I may add optional materials to previous modules that might be helpful. 
 
@@ -81,55 +67,6 @@ In terms of timing, I will have each module completed by the start of the week. 
 embed_url("https://www.youtube.com/watch?v=fwJHNw9jU_U") %>%
   use_align("center")
 ```
-
-This table provides the current status of the course. It lists proportions of specific components by module. Overall it is `r round(mean(ds4p_status$Status,na.rm = TRUE),digits = 5)*100`% complete. 
-
-
-```{r message = FALSE, warning = FALSE, echo = FALSE}
-ds4p_status %>% 
-  DT::datatable(rownames = FALSE,
-                class = 'cell-border stripe',
-                #filter = list(position = 'top'),
-                options = list(pageLength = nrow(ds4p_status$Module), 
-                           autoWidth = TRUE,
-                           bInfo = FALSE,
-                           paging = FALSE))
-```
-
-
-### Course Wishlist {-}
-
-Although there will be hiccups and snafus along the way, one major advantage of this process is that you(!) can have a major input on what we cover. Some of these inputs have already been incorporated (such as github, Rshiny). So take advantage! Add your requests to the [markdown list below](#wish-not-yet-granted)! As I incorporate those requests, I'll move them into the [Wish Granted Section](#wish-granted).
-
-
-#### Wishes {-}
-
-* [Github](#installgit)
-* [Rshiny](#rshiny)
-* Learning R 
-* functions
-* [fun, unusual ways of presenting data](#portfolio)
-* grammar of R
-
-#### Wish Not Yet Granted {-}
-
-* Data Science and the Law
-* Computational neuroscience
-* Multilevel
-* Choosing the best analysis
-* SEM, longitudinal data
-* what to do with existing data
-* basic data and programming skills (applied across platforms)
-* troubleshooting (e.g., figuring out how to answer questions)
-
-
-
-#### Major Mission!!! {-}
-
-* Being comfortable with R
-* really understand data
-* draw meaningful conclusions about it
-* understand why certain code is written certain way and applying that logic
 
 
 
