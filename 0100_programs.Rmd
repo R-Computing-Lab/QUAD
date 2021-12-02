@@ -1,0 +1,38 @@
+# (PART\*) Programs {-}
+
+# Quantitative training programs information sheets {-}
+
+On the next pages, the following programs have provided information sheets.
+
+
+```{r include = FALSE}
+source("common.R")
+#htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+library(tidyverse)
+library(devtools)
+library(DT)
+
+```
+
+- Georgia State University
+- James Madison University
+- McGill University
+- Northwestern University
+- The Ohio State University
+- Pennsylvania State University
+- University of British Columbia
+- University of California, Davis
+- University of California, Irvine
+- University of California, Los Angeles (Edu)
+- University of California, Los Angeles (Psych)
+- University of California, Merced
+- University of Connecticut
+- University of Georgia
+- University of Kansas
+- University of Maryland
+- University of Missouri
+- University of Notre Dame
+- University of Southern California
+- University of South Carolina
+- University of Wisconsin
+- Wake Forest University

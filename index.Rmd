@@ -2,8 +2,8 @@
 title: "Pathways to Graduate School in Quantitative Methods"
 subtitle: "Specific Information about Individual Programs"
 author: 
-- A. Nayena Blankson, PhD, Professor, Spelman College 
-- Jessica K. Flake, PhD, Assistant Professor, McGill University
+- A. Nayena Blankson, PhD Professor, Spelman College^[Stuff Can Go in Footnotes ]
+- Jessica K. Flake, PhD, Assistant Professor, McGill University^[Stuff Can Go in Footnotes here also ]
 - S. Mason Garrison, PhD, Assistant Professor, Wake Forest University 
 - Jessica Logan, PhD, Assistant Professor, The Ohio State University 
 - Matthew Madison, PhD, Assistant Professor, University of Georgia
@@ -30,9 +30,9 @@ favicon: assets/favicon.ico
 ---
 
 
-# (PART\*) Front Matter {-}
+# (PART\*) Welcome {-}
 
-# Welcome to Quantitative Methods Outreach Group {-}
+# What is this document? {-}
 
 
 ```{r include = FALSE}
@@ -47,6 +47,7 @@ library(readr)
 
 Quantitative methods graduate degrees, including Masters and PhD programs in Quantitative Psychology, Educational Measurement and Evaluation, and related areas, represent a small but essential research area within the social sciences. Quantitative methodologists develop and study the research methods and statistical models that drive psychological and educational research. Researchers and programs in quantitative methods range from very technical (e.g., statisticians and psychometricians who primarily invent new statistical models or computational methods to estimate those models) to quite applied (e.g., extending existing statistical methods to answer new questions and tackle specific difficulties in real data) or more theoretical (e.g., studying the implications of how researchers use and interpret statistical models). Depending on what kind of methodologist you want to become, you may need more or less training in math and statistics, and more or less interest in a “substantive” research area (such as cognitive psychology). If you have enjoyed your statistics classes, if you care about improving how social science is practiced, if you love computer programming, one of these programs might be a good fit for you.
 
+
 This document summarizes some key information about a number of graduate programs in quantitative methods, including some programs in Psychology, Education, and Human Development. The universities represented in this document are by no means an exhaustive list of quantitative methods programs: they represent just a small sample of programs that exist.
 
 For a much broader list of universities that offer programs in quantitative methods, see this Wikipedia page: https://en.wikipedia.org/wiki/List_of_schools_for_quantitative_psychology
@@ -55,10 +56,9 @@ Here is a list of graduate programs in educational measurement: https://higherlo
 
 Another, smaller list is available here: https://smep.org/resources/about-quantitative-psychology
 
-Here’s an article (written 15 years ago but still relevant) arguing that science needs more
-methodologists: https://www.apa.org/monitor/sep05/quantitative
+Here's an article (written 15 years ago but still relevant) arguing that science needs more methodologists: https://www.apa.org/monitor/sep05/quantitative
 
 
 
 
-
+# (PART\*) Front Matter {-}
