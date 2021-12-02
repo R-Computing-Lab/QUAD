@@ -12,7 +12,6 @@ author:
 - Mijke Rhemtulla, PhD, Associate Professor, University of California, Davis 
 - Laura Stapleton, PhD, Associate Dean and Professor, University of Maryland 
 - Tracy Sweet, PhD, Associate Professor, University of Maryland
-
 date: "`r Sys.Date()`"
 knit: "bookdown::render_book"
 site: bookdown::bookdown_site
@@ -29,10 +28,12 @@ favicon: assets/favicon.ico
 
 ---
 
+# (PART\*) Front Matter {-}
 
-# (PART\*) Welcome {-}
+# Welcome {-}
 
-# What is this document? {-}
+
+
 
 
 ```{r include = FALSE}
@@ -44,6 +45,8 @@ library(DT)
 library(readr)
 
 ```
+
+
 
 Quantitative methods graduate degrees, including Masters and PhD programs in Quantitative Psychology, Educational Measurement and Evaluation, and related areas, represent a small but essential research area within the social sciences. Quantitative methodologists develop and study the research methods and statistical models that drive psychological and educational research. Researchers and programs in quantitative methods range from very technical (e.g., statisticians and psychometricians who primarily invent new statistical models or computational methods to estimate those models) to quite applied (e.g., extending existing statistical methods to answer new questions and tackle specific difficulties in real data) or more theoretical (e.g., studying the implications of how researchers use and interpret statistical models). Depending on what kind of methodologist you want to become, you may need more or less training in math and statistics, and more or less interest in a “substantive” research area (such as cognitive psychology). If you have enjoyed your statistics classes, if you care about improving how social science is practiced, if you love computer programming, one of these programs might be a good fit for you.
 
@@ -60,5 +63,3 @@ Here's an article (written 15 years ago but still relevant) arguing that science
 
 
 
-
-# (PART\*) Front Matter {-}
