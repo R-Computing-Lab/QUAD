@@ -15,6 +15,7 @@ library(DT)
 ```
 
 
+## Quantitative Info Session
 ```{r, echo=FALSE}
 library(vembedr)
 embed_url("https://youtu.be/1eu2FEY-ciM") %>%
