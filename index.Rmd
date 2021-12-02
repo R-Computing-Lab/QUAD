@@ -1,13 +1,23 @@
 --- 
-title: "Quantitative Methods Outreach Group"
-subtitle: "Quantitative Methods Outreach Group"
+title: "Pathways to Graduate School in Quantitative Methods"
+subtitle: "Specific Information about Individual Programs"
 author: 
-- Quantitative Methods Outreach Group
+- A. Nayena Blankson, PhD, Professor, Spelman College 
+- Jessica K. Flake, PhD, Assistant Professor, McGill University
+- S. Mason Garrison, PhD, Assistant Professor, Wake Forest University 
+- Jessica Logan, PhD, Assistant Professor, The Ohio State University 
+- Matthew Madison, PhD, Assistant Professor, University of Georgia
+- Amanda K. Montoya, PhD, Assistant Professor, University of California, Los Angeles 
+- Jolynn Pek, PhD, Associate Professor, The Ohio State University
+- Mijke Rhemtulla, PhD, Associate Professor, University of California, Davis 
+- Laura Stapleton, PhD, Associate Dean and Professor, University of Maryland 
+- Tracy Sweet, PhD, Associate Professor, University of Maryland
+
 date: "`r Sys.Date()`"
 knit: "bookdown::render_book"
 site: bookdown::bookdown_site
-url: 'https\://github.com/DataScience4Psych/DataScience4Psych'
-github-repo: DataScience4Psych/DataScience4Psych
+url: 'https\://github.com/R-Computing-Lab/QPAWG'
+github-repo: R-Computing-Lab/QPAWG
 twitter-handle: smasongarrison
 cover-image: assets/logo.png
 documentclass: book
@@ -35,40 +45,20 @@ library(readr)
 
 ```
 
-Welcome! This website is designed to accompany Mason Garrison's Data Science for Psychologists (DS4P). DS4P is a graduate-level quantitative methods course at Wake Forest University. This class assumes zero knowledge of programming, computer science, linear algebra, probability, or really anything fancy. I encourage anyone who is quant-curious to work their way through these course notes. The course notes include lectures, worked examples, readings, activities, and labs. You can find the current version of the course syllabus [here](https://github.com/smasongarrison/Syllabi/blob/master/syllabus_datascience.pdf), along with all of the [other syllabi for my classes]( https://github.com/smasongarrison/Syllabi). All the embedded lecture videos can be found on a [youtube playlist][ds4p-pl-all]. 
+Quantitative methods graduate degrees, including Masters and PhD programs in Quantitative Psychology, Educational Measurement and Evaluation, and related areas, represent a small but essential research area within the social sciences. Quantitative methodologists develop and study the research methods and statistical models that drive psychological and educational research. Researchers and programs in quantitative methods range from very technical (e.g., statisticians and psychometricians who primarily invent new statistical models or computational methods to estimate those models) to quite applied (e.g., extending existing statistical methods to answer new questions and tackle specific difficulties in real data) or more theoretical (e.g., studying the implications of how researchers use and interpret statistical models). Depending on what kind of methodologist you want to become, you may need more or less training in math and statistics, and more or less interest in a “substantive” research area (such as cognitive psychology). If you have enjoyed your statistics classes, if you care about improving how social science is practiced, if you love computer programming, one of these programs might be a good fit for you.
 
-```{r,echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=nYYJmmcgzr8") %>%
-  use_align("center")
-```
+This document summarizes some key information about a number of graduate programs in quantitative methods, including some programs in Psychology, Education, and Human Development. The universities represented in this document are by no means an exhaustive list of quantitative methods programs: they represent just a small sample of programs that exist.
 
+For a much broader list of universities that offer programs in quantitative methods, see this Wikipedia page: https://en.wikipedia.org/wiki/List_of_schools_for_quantitative_psychology
 
+Here is a list of graduate programs in educational measurement: https://higherlogicdownload.s3.amazonaws.com/NCME/c53581e4-9882-4137-987b-4475f6cb502a/UploadedImages/Documents/Grad_Programs_1219.pdf
 
+Another, smaller list is available here: https://smep.org/resources/about-quantitative-psychology
 
-### How to use these notes {-}
-
-This document is broken down into multiple chapters. Use the table of contents on the left side of the screen to navigate, and use the hamburger icon (horizontal bars) at the top of the document to open or close the table of contents. At the top of the document, you'll see additional icons which you can click to search the document, change the size, font or color scheme of the page. The document will be updated (unpredictably) throughout the semester.
-
-
-Every module corresponds to a weeks worth of material. Most modules are dedicated to improving a specific skill or at the very least dedicated to a specific theme. Within each module, there are embedded videos, slides, activities, labs, and tutorials. The skills developed in each module build upon skills you've developed in previous modules. Eventually, this class will have more modules available than weeks in a semester, so that you -- the reader can choose your own adventure (err... module) you'd like to start with. 
-
-
-Although these notes share some of the features of a textbook, they are neither comprehensive nor completely original. The main purpose is to give you all a set of common materials on which to draw during the course. In class, we will sometimes do things outside the notes. The idea here is that you will read the materials and try to learn from them, just as you will attend classes and try to learn from them.
-
-### Status of book {-}
-
-In terms of timing, I will have each module completed by the start of the week. Given that the class meets either on Monday or Friday, the start of the "week" will be Wednesday at 12 p.m. EST. It is possible that I will get ahead of this deadline. You can see the current status of the course below. Although you are welcome to work ahead, be aware that I will be making changes to modules that haven't officially started yet. In addition, I may add optional materials to previous modules that might be helpful. 
-
-
-```{r,echo=FALSE}
-
-# Gromit Placing Rail Tracks for 10 Hours
-
-embed_url("https://www.youtube.com/watch?v=fwJHNw9jU_U") %>%
-  use_align("center")
-```
+Here’s an article (written 15 years ago but still relevant) arguing that science needs more
+methodologists: https://www.apa.org/monitor/sep05/quantitative
 
 
 
-```{r links, child="links.md"}
-```
+
+
