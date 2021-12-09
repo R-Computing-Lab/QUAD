@@ -34,8 +34,6 @@ favicon: assets/favicon.ico
 
 
 
-
-
 ```{r include = FALSE}
 source("common.R")
 htmltools::tagList(rmarkdown::html_dependency_font_awesome())
@@ -60,6 +58,4 @@ Here is a list of graduate programs in educational measurement: https://higherlo
 Another, smaller list is available here: https://smep.org/resources/about-quantitative-psychology
 
 Here's an article (written 15 years ago but still relevant) arguing that science needs more methodologists: https://www.apa.org/monitor/sep05/quantitative
-
-
 
