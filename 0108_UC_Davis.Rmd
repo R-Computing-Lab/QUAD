@@ -1,0 +1,79 @@
+---
+title: "UC Davis"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Quantitative Psychology Program https://psychology.ucdavis.edu/research/research-areas/quantitative {-}
+
+## Program Mission  {-}
+The quantitative psychology PhD program at UC Davis equips students to understand, apply, study, and develop advanced quantitative methods for psychological data. Our program offers students breadth through its wide range of course offerings, and depth by immediately immersing students in original research. Students gain knowledge, skills, and understanding by taking classes about a broad range of statistical methods and areas, while their main focus throughout the PhD is producing original methodological and applied research. Graduates from our program are trained to produce methodological research, to teach graduate-level coursework in statistical methods, to collaborate with researchers across the social sciences, and to apply their understanding of statistical modeling to real-world complex data.
+
+
+
+## Faculty and Research Interests  {-}
+We have 5 core faculty in psychology – Emilio Ferrer, Shelley Blozis, Philippe Rast, Mijke Rhemtulla, and Max Hong – with expertise in dynamic models for longitudinal processes, hierarchical nonlinear modeling, Bayesian modeling and estimation, structural equation modeling, missing data, and psychological measurement. Our graduate group also includes faculty from two other departments: Siwei Liu in Human Development and Megan Welsh in Education.
+
+
+
+
+
+## General Curriculum  {-}
+We offer a PhD program in which students may choose to get their Master’s degree “on the way” to their PhD.
+
+
+
+
+## Admissions Criteria  {-}
+⦁	Applicants are required to submit a Statement of Purpose, Personal History and Diversity statement, 3 letters of recommendation, and unofficial transcripts.  
+⦁	GRE scores have been waived for fall 2021  
+⦁	The application fee is $120 (U.S. applicants) or $140 (international applicants)  
+⦁	For more detail about each required component, please see here: https://psychology.ucdavis.edu/graduate/how-to-apply    
+⦁	Full admissions requirements (e.g., GPA and TOEFL minimums) are described here, as well as information about fee waivers:    
+⦁	https://grad.ucdavis.edu/admissions/admission-requirements  
+
+
+
+## Admissions Timeline  {-}
+⦁	December 1 Application Deadline  
+⦁	3rd week of December Interview   invitations will be emailed to interview candidates  
+⦁	Late January/Early February: Interview Days  
+
+⦁	Late February: Admission offer letters sent via email  
+⦁	Mid-March Final admissions decisions sent to unsuccessful applicants.  
+
+
+## Funding  {-}
+Students are funded through a mix of teaching assistantships, research assistantships, and fellowships. More information is here: https://psychology.ucdavis.edu/graduate/graduate-program/graduate-student-funding-and-financial-support
+
+
+
+## Mentoring / Student Engagement Philosophy  {-}
+All students have a primary mentor who is responsible for their training, and in whose lab they primarily carry out their research. Students may change advisors during their program, and they may be co-advised. Many students do research projects in several labs over the course of their degree. All students have a 3-person advising committee with whom they meet yearly to discuss their progress, goals and ambitions.
+
+
+
+## Where Past Graduate Students Are Now  {-}
+⦁	Hairong Song (2009) is Associate Professor, Department of Psychology, U. of Oklahoma  
+⦁	Young Cho (2009) Assistant Professor, Sungshin Women’s University, Korea  
+⦁	Violet Xu (2010) Assistant Professor, New York University  
+⦁	Joel Steele (2011) Assistant Professor, Portland State U.  
+⦁	Jonny Beber (2011) Researcher, eHarmony  
+⦁	Laura Castro-Schilo (2012), SAS Institute  
+⦁	Jon Helm (2013) Assistant Professor, San Diego State U.  
+⦁	Stephen Aichele (2013) Assistant Professor, Colorado State  
+⦁	Joseph Gonzales (2016) Assistant Professor, U. of Massachusetts, Lowell  
+⦁	Melissa McTernan (2016) Assistant Professor, California State U., Sacramento  
+⦁	Pega Davoudzadeh (2016) Yahoo! Inc.  
+⦁	Melissa McTernan (2017) Assistant Professor, Sacramento State University  
+⦁	Marilu Isiordia (2018) Educational Testing Service (ETS)  
+⦁	Kristine O’Laughlin (2020) Postdoc, UCSF  
+⦁	Nate Smith (2020) Statistician at E. & J. Gallo Winery  
+⦁	Timothy Banh (2020) Postdoc, UCSF School of Medicine  
+
+
+

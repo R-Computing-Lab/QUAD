@@ -1,0 +1,42 @@
+---
+title: "McGill University"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# McGill University {-}
+
+## PhD in Experimental Psychology, Emphasis in Quantitative Psychology and Modelling  {-}
+
+## Program Mission  {-}
+Research in quantitative psychology and modelling emphasizes the development and testing of mathematical, statistical, and computational models and the development and use of appropriate data-analytic techniques. The research is informed by new advances not only in basic sciences like statistics and mathematics but also follows new trends in understanding analysis techniques in neuroimaging analyses and big data, as well as in improving the existing statistical techniques and methods for tests, measurements, and longitudinal designs.
+
+
+
+## Faculty and Research Interests  {-}
+4 core faculty members plus numerous affiliated faculty. Interests in Bayesian methods, measurement, psychometrics, mediation, and latent variable modeling more generally.
+
+
+
+## General Curriculum  {-}
+MA to PhD
+
+
+## Admissions Criteria  {-}
+Currently the GRE is not considered, GPA
+
+## Admissions Timeline  {-}
+Applications generally due in December. Faculty follow up in Jan and Feb, offers are rolled out through March. Students tend to have until mid-April to decide.
+
+
+## Funding  {-}
+Admitted students are offered guaranteed funding of a minimum of $20k annual stipend and a tuition wavier, this requires a TA each semester of about 10 hours per week workload.
+
+
+## Mentoring / Student Engagement Philosophy  {-}
+1-1 mentorship model, occasionally multiple faculty cosupervise. General approach is that an accepted student joins the lab of their mentor and they have 2-4 other faculty members on their advisory committee but primarily work with their primary mentor.
+
+## Where Past Graduate Students Are Now  {-}
+Most recent graduate took a tenure track job. ¾ current faculty were hired in the past 3 years, so not many recent graduates

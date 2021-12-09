@@ -1,0 +1,86 @@
+---
+title: "University of Notre Dame"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Quantitative Psychology Program https://psychology.nd.edu/graduate-programs/areas-of-study/quantitative/  {-}
+
+## Program Mission  {-}
+The quantitative area emphasizes a broad range of topics, including traditional analysis of variance and regression, multivariate analysis, categorical data analysis, structural equation modeling (SEM), item response theory, longitudinal analysis, Baysian analysis, finite mixture modeling, computational statistics, and statistical learning methods (i.e., data-mining).
+
+Quantitative students typically focus on methods development and/or evaluation, but can also apply these methods to a topic in a substantive area of psychology, such as cognitive, clinical, developmental, of behavior genetics.
+
+The extent of the substantive training above and beyond the quantitative training will depend on the interests of the individual student.
+
+The quantitative area faculty train students to have expertise in a variety of analytical tools and to advance methodology through novel research on statistical applications and creative use of existing techniques.
+
+Topics of expertise within the area include applied statistics, longitudinal analysis, Bayesian statistics, factor analysis and SEM, robust statistics, missing data, computational statistics, item response theory, mixture analysis, and statistical learning.
+
+As in all of our areas, there is great flexibility of curriculum, and students may work with a variety of faculty, both within and between programs.
+
+
+
+
+## Faculty and Research Interests  {-}
+⦁	Ying (Alison) Cheng, Professor. Dr. Ying "Alison" Cheng's research focuses on psychological and educational measurement. In particular, she is interested in theoretical development and applications of item response theory (IRT), including computerized adaptive testing (CAT), test equity across different ethnicity/gender groups (formally known as different item functioning or DIF), classification accuracy and consistency with licensure/certification of state graduation exams. Recently she is working on cognitive diagnostic models and their applications to CAT. https://lambslab.nd.edu/  
+
+
+⦁	Ross Jacobucci, Assistant Professor. My main line of interest is in integrating methods from both machine learning and latent variable modeling. Additionally, I am researching the use of machine learning for clinical psychology research, specifically suicide and non-suicidal self- injury.  
+
+
+⦁	Lijuan (Peggy) Wang, Professor. Lijuan Wang's research interests are in the areas of longitudinal data analysis (e.g., methods and models for studying intra-individual change, variability, and relations, and inter-individual differences in them), multilevel modeling (e.g., dyadic data analysis), structural equation modeling (e.g., mediation analysis), and study design issues (e.g., sample size determination). She is also interested in measurement issues related to longitudinal research. Substantively, she is interested in applying quantitative methods in developmental, family, health, and educational research. https://ldhrm.nd.edu/  
+
+
+⦁	Ke-Hai Yuan, Professor. Ke-Hai Yuan's research has been around developing better or more valid methods for analyzing messy data or non-standard samples in social and behavioral sciences. Most of his work is on factor analysis, structural equation modeling, and multilevel modeling. He has also worked on correlations, regression, combining effect sizes, mean comparison and power, classical and modern testing theory, statistical computation, estimating equations, and big data. His teaching interests include psychometric theory, structural equation modeling, item response theory, missing data, asymptotics and simulation-based research methodology. You may visit Ke-Hai's lab here: https://smrd.nd.edu/  
+
+
+⦁	Guangjian Zhang, Associate Professor. I am interested in developing and evaluating sophisticated statistical methods for modeling high-dimensional complex data. My current lines of research include (a) statistical analysis of multivariate time series, (b) exploratory factor analysis, and (c) bootstrap methods in psychological research. In addition, I am collaborating with substantive researchers on a number of topics: personality traits, smart phone based blood glucose monitoring, brain imaging techniques like fMRI and EEG.  
+
+
+⦁	Zhiyong (Johnny) Zhang, Professor. Our Lab for Big Data Methodology aims to develop better statistical methods and software in the areas of education, health, management and psychology. Our most recent research involves the development of new methods for social network and big data analysis. Particularly, we have contributed to the area of Bayesian methods, Network analysis, Big data analysis, Structural equation modeling, Longitudinal data analysis, Mediation analysis, and Statistical computing and programming. https://bigdatalab.nd.edu/  
+
+
+
+
+
+## General Curriculum  {-}
+PhD only. See curriculum here: https://psychology.nd.edu/graduate-programs/areas-of- study/quantitative/curriculum/
+The joint degree area in Psychology (PSY) and Computer Science and Engineering (CSE) has additional requirements. See here: https://docs.google.com/document/d/1LjpzUR18sf1GwKlOm- Ud4yX8_MOp3e_qIVw9VP0F_4Y/edit?usp=sharing
+
+
+
+
+## Admissions Criteria  {-}
+Students are evaluated case by case. International students need the TOEFL test score.
+
+## Admissions Timeline  {-}
+Application deadline: Dec 1 every year. https://gradconnect.nd.edu/apply/ Decision typically made in February.
+
+
+
+
+## Funding  {-}
+
+Guaranteed 5 years of support if admitted.
+
+
+## Mentoring / Student Engagement Philosophy  {-}
+See training plan here: https://docs.google.com/document/d/10E0a7TjhzDN8HdRMmBa54XQzfoiMkyd- 504C17XS610/edit
+
+
+
+
+## Where Past Graduate Students Are Now  {-}
+Recent placements (2021; see all here https://psychology.nd.edu/graduate-programs/recent- placements/ ):  
+Chang Che, Data Scientist, Facebook
+Brenna Gomer, Assistant Professor, Utah State University  
+Maxwell Hong, Assistant Professor, Department of Psychology, University of California-Davis   
+Daniella Reboucas,   Post-doctoral fellow, UNC-Chapel Hill    
+Lauren Trichtinger, Assistant Professor of Statistics/Data Science,Simmons University   
+Wen Qu, Associate Research Professor, Fudan University, China  
+

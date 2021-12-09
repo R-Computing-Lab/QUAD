@@ -1,0 +1,50 @@
+---
+title: "The University of British Columbia"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Quantitative Methods Program https://psych.ubc.ca/graduate/research-streams/quantitative-methods/ {-}
+
+## Program Mission  {-}
+Students in our quantitative methods program will gain training in the theory and application of quantitative methods for psychological research and contribute to the development of new knowledge in the field of quantitative psychology. We seek to develop a foundational knowledge for graduate students of all areas and to provide state-of-the-art training for graduate students seeking a PhD in this field. The graduate program provides a rigorous curriculum, opportunities for experience in teaching, and extensive training and experience in research.
+
+
+## Faculty and Research Interests  {-}
+Broad research areas currently represented by faculty members of the area include the development and testing of new statistical procedures (e.g., in structural equation modeling, multilevel modeling, and complex regression modeling), the investigation of sampling properties of established statistics using computer simulation methods and analytical asymptotic derivations, mathematical models of personality structure and person perception, and applied assessment techniques.
+
+
+
+
+## General Curriculum  {-}
+The Quantitative Methods program offers graduate study leading to both the MA and PhD degrees; we generally do not admit applicants who intend to complete only the MA degree. Prospective students who wish to obtain their PhD will first be accepted into the Masters program, and upon completing the Masters, will then be admitted to the PhD program.
+
+
+## Admissions Criteria  {-}
+Prospective students are typically expected to have a four-year BA/BSc degree in psychology or a related field, and ideally students will also have some coursework in statistics, quantitative methods, and/or mathematics. Students will be evaluated based on their aptitude in conducting quantitatively oriented research, as demonstrated by their coursework, research statement, and research experience. The GRE is optional for 2022-2023 admissions.
+
+
+## Admissions Timeline  {-}
+The online application is open from September 1 to December 1 of the year prior to a program’s start date (e.g., online applications will be accepted from September 1 to December 1, 2021 for programs beginning in September 2022). Note there is only one
+
+intake (in September) per year and applications will not be accepted after the December 1 deadline. Mid-March Final admissions decisions sent to unsuccessful applicants.
+
+
+## Funding  {-}
+The MA and PhD programs are both fully funded, and students will receive a minimum stipend of $23,000 CAD per year (the average funding rate for students is typically between
+$27,000 and $30,000) via a combination of teaching assistantships, research assistantships, and grant funding. Students who are Canadian permanent residents are expected to apply for tri-council (NSERC, SSHRC, or CIHR) grants, and international students are expected to apply for internal UBC grants.
+
+
+## Mentoring / Student Engagement Philosophy  {-}
+Students will work closely with quantitative faculty members, being actively involved in research starting early on in the program. Though students most typically work one-on-one with a particular faculty mentor, our area is very open to collaboration, and students may be involved in projects with multiple faculty members and other graduate students simultaneously. Students are also given the flexibility and support to pursue research projects on their own, if desired.
+
+
+
+## Where Past Graduate Students Are Now  {-}
+Recent graduates of the quantitative methods program have gone on to obtain tenured or tenure-track quantitative methods faculty positions at universities in the United States and Canada (e.g., UC-Davis, McGill, York) as well as careers as methodological consultants and project managers in industry.
+
+

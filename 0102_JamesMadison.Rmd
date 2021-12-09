@@ -1,0 +1,56 @@
+---
+title: "James Madison University"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# James Madison University {-}
+
+## Concentration in Quantitative Psychology https://www.psyc.jmu.edu/psycsciences/quantitativepsyc.html
+  {-}
+
+## Program Mission  {-}
+
+The vision of the Doctor of Philosophy and Combined M.A./Ph.D. programs in assessment and measurement at JMU is to establish and maintain a national reputation as a valuable resource in educational outcomes assessment, applied and theoretical measurement, and quantitative methods. As such, the program will help meet the growing demand for professionals in these areas.
+
+## Faculty and Research Interests  {-}
+These vary from quite technical to applied, so are difficult to summarize here. Complete information on all of our faculty and their interests can be found at https://www.psyc.jmu.edu/assessment/directory.html.
+
+
+## General Curriculum  {-}
+All three (M.A.,, Ph.D, and combined M.A./Ph.D)
+
+## Admissions Criteria  {-}
+
+**For PhD**
+Completion of an advanced degree (M.A./M.S. or Ed.S.) in psychology, education, statistics or related field
+General GRE scores (verbal, quantitative, and analytic writing) Transcripts from all undergraduate and graduate programs attended
+Letters of recommendation and supplementary materials as described below  
+
+**For MA**
+Completion of an undergraduate degree (B.A./B.S.) in psychology, education, statistics, or related field
+General GRE scores (verbal, quantitative, and analytic writing) Transcripts from all undergraduate programs attended
+Letters of recommendation and supplementary materials as described below Supplementary Materials
+During the online application process, you will be prompted to enter specific information and to upload several documents. Documents may be in pdf or MS Word format. These documents include:
+
+⦁	Personal Statement: In a separate document, describe your personal and professional goals and how this program will help you meet these goals. In your statement, please discuss why you are interested in this field of study and in our program in particular, and the type(s) of career(s) you would like to pursue in the future. You may also indicate your research interests and preferences for an advisor.  
+⦁	A current professional vita or resume: Representative work samples demonstrating current professional skills (e.g., research papers or reports)  
+⦁	In a separate document, describe any relevant experiences you have had performing assessment-related or other research. Be sure to provide the following information for each study you have been personally involved with:  
+⦁	where and when the study was performed  
+⦁	your level of independence on the project  
+⦁	a brief summary of the results and the impact or implications of results  
+
+
+## Admissions Timeline  {-}
+Applications open Oct. 15th and close January 10th
+
+## Funding  {-}
+All full-time students (both masters and PhD) receive graduate assistantships through the Center for Assessment and Research Studies in which they work on measurement, assessment, and statistically-related projects. These assistantships carry full tuition remission and a stipend.
+
+## Mentoring / Student Engagement Philosophy  {-}
+We have a very strong mentoring program and believe in scaffolded experiences that lead to students becoming independent researchers. Students are assigned advisors based on their interests. During their first year, both MA and PhD students complete a research project under the guidance of their advisor. Students also work with other faculty on projects related to their assistantships. Students meet with their advisors weekly in most cases.
+
+## Where Past Graduate Students Are Now  {-}
+Please see our alumni webpage at https://www.psyc.jmu.edu/assessment/alumni.html for full information and testimonials from our alumni.

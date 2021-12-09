@@ -1,0 +1,71 @@
+---
+title: "UC Merced"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Quantitative Methods, Measurement, and Statistics https://psychology.ucmerced.edu/graduate-program/areas-focus/quantitative {-}
+
+## Program Mission  {-}
+Faculty in the Quantitative Methods, Measurement, and Statistics (QMMS) program create the methods used to gather data and the statistics used to analyze them.
+The study of quantitative methods is central to all aspects of social and behavioral sciences: science, education, public interest, and practice. This essential role of quantitative methodology within psychology is reflected in the fact that Division 5 - Evaluation, Measurement, and Statistics - is one of the Charter Divisions of the APA.
+The QMMS program includes research and development in a number of broad areas: measurement, research design and statistical analysis, as well as mathematical and statistical modeling of psychological processes. Faculty in the QMMS program develop new methodologies and evaluate existing methodologies to examine their behavior under conditions that exist in psychological data (e.g., with small samples). This work supports the substantive research of all areas within social and behavioral sciences.
+
+
+
+## Faculty and Research Interests  {-}
+Faculty in the QMMS program have strengths in a wide array of topics, including Bayesian statistics, experimental and quasi-experimental design, meta-analysis, propensity score analysis, psychometric theory, structural equation modeling, hierarchical linear modeling, item response theory, longitudinal statistical modeling, sample size planning, and statistics that are robust to violations of assumption.
+
+
+
+
+
+
+## General Curriculum  {-}
+Students are admitted into the PhD program, and they have the option to earn a master’s
+degree along the way.
+
+
+
+
+
+
+## Admissions Criteria  {-}
+Admissions are based on a combination of material that is required in the application packet. Although all of this material is weighed and is important to admissions decisions, we place a strong emphasis on fit with the QMMS program (e.g., whether research interests align between the applicant and the faculty member). We encourage you to reach out to the faculty member of interest to start a dialogue early to identify overlapping research interests. The official application must include the following:
+
+Statement of purpose  
+Personal statement (e.g., contributions and achievements) Transcripts, including GPA  
+Three letters of recommendation
+TOEFL or IELTS Scores (international students only)  
+*Note that GRE scores are not required this year, but they can be optionally reported by applicants.  
+
+
+## Admissions Timeline  {-}
+
+Applications are due December 1, 2021. Soon after this date, the QMMS faculty will hold informal meetings with our top candidates to learn more about their goals and assess fit with the program. Admissions decisions are made within a few weeks of the application deadline.
+
+
+
+
+
+## Funding  {-}
+Students receive funding support for six years, with options for extensions if needed. Student funding is through research- or teaching-assistant opportunities. In addition, there are a variety of fellowships that students can apply for, and summer funding is provided for all students through the department.
+
+## Mentoring / Student Engagement Philosophy  {-}
+We have a very hands-on approach to mentoring, and our goal is to train independent researchers in quantitative methodology. Students are continuously engaged in research starting from their first day in the program. Each QMMS faculty member has a close relationship with the students working in their lab. Students will meet with their primary advisor in a one-on-one meeting weekly, and faculty with multiple students also hold regular lab meetings. Students work on individualized projects under their primary advisor, gaining valuable experiences in a variety of research activities. The QMMS faculty are a very close group, and we often collaborate on research projects, which makes co-advising a viable option for students interested in gaining intensive training from multiple labs.
+
+Professional development is an important element of our training philosophy. Each student has an advisory committee consisting of at least three faculty members (including the primary advisor), who provide support and mentoring on a variety of topics. Aside from research- related support, the advisory committee regularly provides guidance on other important professional topics such as teaching development, how to be an effective public speaker, and how to successfully navigate the job market.
+
+
+
+
+
+## Where Past Graduate Students Are Now  {-}
+Students receive training to obtain the job they desire, which may include going into either industry (e.g., psychometrician) or academia (e.g., research or teaching professor, or postdoctoral scholar). Our former students have taken a variety of positions upon graduation; some have gone into industry (e.g., Facebook, Twitter, College Board, American Institutes for Research) and others have gone into academia (e.g., Pennsylvania State University, University of Missouri, and University of California, Santa Barbara). Our goal is to offer personalized training that opens up many different paths beyond graduation.
+
+
+

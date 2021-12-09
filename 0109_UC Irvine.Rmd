@@ -1,0 +1,63 @@
+---
+title: "UCLA"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Department of Cognitive Sciences
+ {-}
+
+## Program Mission  {-}
+The Ph.D. degree programs prepare students for research and teaching careers in academia, industry, and government. The emphasis is on modern techniques of experimentation and theory construction. Special attention is given to providing hands-on research experience and equipping students with sophisticated mathematical and computing skills.
+
+
+## Faculty and Research Interests  {-}
+A list of faculty with links to their research interests is here: http://apply.cogs.ci/?p=faculty
+
+
+
+
+
+## General Curriculum  {-}
+All students in our program pursue the PhD in Cognitive Sciences or PhD in Cognitive Sciences with a Concentration in Cognitive Neuroscience. Students have the option of obtaining an MS Cognitive Sciences, an MS Cognitive Neuroscience, or an MS Statistics (the latter with additional admissions requirements) along the way, but we do not offer a terminal Master’s degree.
+
+
+
+
+
+## Admissions Criteria  {-}
+In addition to meeting the general requirements for admission, applicants should have acquired a background in mathematics equivalent to at least one year of calculus. Advanced course work in some of the following fields is highly desirable: psychology, computer science, mathematics, physical sciences, engineering, biology, logic, and linguistics. 
+
+
+
+## Admissions Timeline  {-}
+To receive full consideration for fellowship and assistantship awards, applications must be received by December 1. Admissions decisions are made on a rolling basis but no later than mid-March.  
+
+
+## Funding  {-}
+Graduate students at the UCI Department of Cognitive Sciences are expected to focus on their studies and their research. To make that easier, we ensure that all students have a reliable and sufficient source of income. All incoming students are guaranteed 15 academic quarters of support, most commonly through part-time employment as a teaching assistant, research assistant, or some other relevant function.
+
+This employment comes with various perks, including a full tuition waiver, health insurance including dental and vision, and a guarantee of subsidized on-campus housing. You can find current salary amounts here: https://www.gradstudies.socsci.uci.edu/ta/overview.php
+
+During the summer of the first three years, our students receive guaranteed stipends so they can optimally focus on reaching the program's educational milestones. During the fourth summer, students often work as research assistants in the lab or do research internships off campus.
+
+
+
+
+
+## Mentoring / Student Engagement Philosophy  {-}
+Please see our mentoring and advising policies on our website: http://apply.cogs.ci/?p=mentoring
+
+
+
+
+## Where Past Graduate Students Are Now  {-}
+Graduate students from UCI’s cognitive sciences program have gone on to work in high-tech and research consultancy companies; government, science, and technology labs; and in professorial posts around the world.
+
+Recent placements include Apple. Air Force Research Labs, Army Research Labs, Blizzard Entertainment, Carnegie Mellon University, Google, Johns Hopkins University, MIT, Mind Research Network, Navy Research Labs. Rutgers University, Toyota, UC Berkeley, UCLA, University of Pennsylvania, University of Zurich, and Yale University
+
+

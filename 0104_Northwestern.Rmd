@@ -1,0 +1,59 @@
+---
+title: "Northwestern University"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Northwestern University {-}
+
+## Graduate Programs in Statistics  {-}
+
+## Program Mission  {-}
+The Department of Statistics at Northwestern is committed to teaching the theory and practice of statistics to undergraduate and graduate students and to conducting original research in statistical theory and methodology. The department is distinguished by the faculty's strong interest in the application of statistics to such diverse areas such as public policy, medicine and life sciences, law, and the social and behavioral sciences.
+
+
+## Faculty and Research Interests  {-}
+The department includes 13 faculty members with interests that cover a wide range of
+statistical methods. For those interested in ‘social statistics’, this includes:  
+⦁	Larry Hedges, Board of Trustees Professor of Statistics  
+⦁	Bruce Spencer, Professor of Statistics  
+⦁	Elizabeth Tipton, Associate Professor of Statistics  
+These three faculty are also jointing appointed to the Institute for Policy Research, an interdisciplinary center that focuses on research related to public policy.  
+
+
+
+## General Curriculum  {-}
+We have both an MS and PhD program. The PhD program includes a first-year sequence in theoretical statistics (3 quarters) and applied statistics (3 quarters). Students then complete a sequence of elective courses, including courses in topics like the design and analysis of experiments, survey sampling, meta-analysis, and causal inference
+
+## Admissions Criteria  {-}
+⦁	Undergraduate coursework in math (minimally, calculus and linear algebra; ideally also real analysis).  
+⦁	Strong GRE scores and letters of recommendation  
+⦁	Alignment with faculty interests  
+
+
+## Admissions Timeline  {-}
+All applications are due in December. Decisions are made in February-March.
+
+## Funding  {-}
+Students receive full funding for 5 years, covering both coursework and a living stipend (with healthcare). Students are required to TA for 1 course per quarter in Years 2-4. Some funding is available for conference travel.  
+
+Students interested in education can receive additional funding if accepted to the [Multidisciplinary Program in Education Sciences](https://www.mpes.sesp.northwestern.edu/mpes-training-program/).    
+
+
+
+## Mentoring / Student Engagement Philosophy  {-}
+In their first year, students focus on gaining a strong foundation in statistical theory and applications.   After the first year, students begin to work closely with faculty, engaging in research activities. The department has a weekly seminar series, including outside speakers, which all students and faculty attend.  
+
+Students interested in social statistics often join the [Statistics for Evidence-Based Policy and Practice (STEPP) Center](https://stepp.center/). The Center currently includes 2 faculty (Tipton & Hedges), 1 research associate, 1 post-doc, 7 statistics graduate students, and 4 undergraduates. The STEPP lab meets weekly to discuss projects, including presentations by various lab members on their own research and progress.
+
+## Where Past Graduate Students Are Now  {-}
+Recent graduates who focus on ‘social statistics’ include:
+⦁	Mindy Hong (2019), Post-doc, Feinberg School of Medicine, Northwestern
+⦁	Jacob Schauer (2018), Asst Prof, Feinberg School of Medicine, Northwestern
+⦁	Rachel Ktsanes (2017), Senior Statistical Modeler, PayNet
+⦁	Wendy Chan (2016), Asst Prof, Graduate School of Education, University of Pennsylvania
+⦁	Zachary Seeskin (2016), Senior Statistician, NORC, University of Chicago
+⦁	Arend Kuyper (2015), Asst Prof of Instruction, Statistics Department, Northwestern
+⦁	James Pustejovsky (2013), Assoc Prof, Department of Educational Psychology, University of Wisconsin-Madison

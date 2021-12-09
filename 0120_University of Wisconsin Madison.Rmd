@@ -1,0 +1,62 @@
+---
+title: "University of Wisconsion-Madison"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Quantitative Methods Program https://edpsych.education.wisc.edu/  {-}
+
+## Program Mission  {-}
+Our program’s mission is to further the development and application of quantitative methods to research and practice in education, as well as in the broader social sciences. We train students not only to become experts in the use of quantitative methods, but also to expand the field of methodology by developing and evaluating new statistical methods. The program is part of UW Madison’s Educational Psychology Department, whose overall mission is to advance education-related theory and methodology; to improve knowledge about the biological, psychological, technological, and social processes of learning, development, and mental health in diverse populations; and to enhance learning and mental health in educational and community contexts through innovative educational interventions and effective prevention/intervention programs.
+
+
+
+
+
+
+
+## Faculty and Research Interests  {-}
+Our program has five core faculty members. Current areas of interest among the faculty include measurement theory, item response theory, Bayesian inference, longitudinal data analysis, multilevel modeling, experimental and quasi-experimental design, causality, structural equation modeling, and research synthesis methods. You can learn more about us (and see pictures of us smiling awkwardly) here: https://edpsych.education.wisc.edu/academics/quantitative-methods/faculty/
+
+
+
+## General Curriculum  {-}
+Our program offers a non-terminal M.S. and a Ph.D degree. Students entering the doctoral program typically earn an M.S. en route to completing their Ph.D. Because we are a small program and follow a research-focused mentorship model, it is rare for us to admit students interested in obtaining a terminal Master’s degree.
+
+
+
+## Admissions Criteria  {-}
+
+Specific admissions requirements for the department may be found at: https://edpsych.education.wisc.edu/admissions/. The area evaluates all applications holistically, paying particular attention to the applicant’s foundational coursework and experiences in statistics, mathematics, and research methods, their articulated scholarly interests, and the alignment of those interests with the program’s mission and the specific research programs of the faculty.
+
+
+
+## Admissions Timeline  {-}
+We admit students on a yearly cycle, entering in Fall semester. Applications are due December 1st, 2021 for admission in Fall of 2022.
+
+
+
+
+## Funding  {-}
+All students entering our program are guaranteed financial support for at least four years. Most funding is in the form of graduate assistantships (appointments of at least 50% of full - time equivalent), which include teaching assistantships, project assistantships, and research assistantships. Assistantships include a monthly stipend, tuition remission, and health insurance subsidy. More information about funding can be found at https://grad.wisc.edu/funding/.
+
+
+
+
+## Mentoring / Student Engagement Philosophy  {-}
+Our program follows a mentorship model, in which students work extensively with faculty mentors from their first year in the program through their dissertation work. Throughout their studies, students are typically involved in and contributing to methodological and applied research, in collaboration with their mentors, other program area faculty, and often with researchers from a range of other fields.
+
+## Where Past Graduate Students Are Now  {-}
+Graduates of our program may go on to careers  
+⦁	in academia (past graduates are currently on the faculty at Columbia University, University of Missouri, and University of California, Riverside, among others)  
+⦁	in the testing industry (including firms such as the Educational Testing Service, ACT Inc., and the College Board), and  
+⦁	at research firms (such as the American Institutes for Research). A list of our alumni can be found here:  
+https://edpsych.education.wisc.edu/academics/quantitative-methods/graduates/  
+
+
+
+

@@ -1,0 +1,56 @@
+---
+title: "University of South Calolina"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Quantitative Psychology Program  ttps://psych.sc.edu/internal/training-quantitative-psychology  {-}
+
+## Program Mission  {-}
+The quantitative psychology concentration has a dual focus that trains students to develop and evaluate novel methodology, as well as to innovatively apply methods to solve important psychological research problems that impact society. We aim to develop quantitative scientists who have the ability to conduct their own primary quantitative research, as well as to collaborate effectively with substantive scientists
+
+
+
+
+
+
+## Faculty and Research Interests  {-}
+⦁	Dr. Amanda Fairchild- Mediation analysis; causality; applied quantitative methods  
+⦁	Dr. Dexin Shi- SEM; psychometrics; missing data; causality  
+⦁	Dr. Alberto Maydeu-Olivares- SEM; item response theory; choice models  
+
+
+## General Curriculum  {-}
+Can do PhD only, but Master’s en route to PhD is encouraged
+
+
+
+## Admissions Criteria  {-}
+Admission is based on an inclusive evaluation of the prospective student’s profile. We consider one’s traditional academic record, prior relevant experience, and fit with faculty mentor in evaluating files. Applicants are encouraged to to discuss fit with identified mentors in the personal statement. Competitive applicants often have prior research experience in quantitative study or have completed prior quantitative classwork of some kind.
+
+
+## Admissions Timeline  {-}
+Applications are due December 1. We often conduct virtual student interviews in late January/early February. Admitted students are notified early spring.
+
+
+
+
+## Funding  {-}
+We offer financial support to all first year Ph.D. students. Our stipend for 2021 -2022 will be approximately $18K for the 9-month academic year. This stipend amount may be greater if you receive a graduate fellowship or are funded on a grant. The stipend is in exchange for working as a research assistant or as a teaching assistant (20 hours per week). As a student receiving a department stipend, you will also receive a tuition abatement from the department that covers the cost of your tuition. Our program makes every effort to extend
+
+support to Ph.D. students for five years, contingent upon a student's satisfactory academic progress and on the continued appropriation of funds to the program. To date, we have funded all students in good standing during their first five years. Advanced graduate students also sometimes have the opportunity to teach during the summer semesters, so this may be an additional possible source of funding.
+
+
+
+## Mentoring / Student Engagement Philosophy  {-}
+Mentoring styles naturally vary from person to person. As such, applicants are encouraged to contact prospective faculty mentors prior to submitting an application to learn more about the faculty member’s current research and to assess match potential.
+
+
+## Where Past Graduate Students Are Now  {-}
+Students graduating from the program will be prepared to serve as quantitative psychologists in a variety of roles both within and outside academia. Past graduates hold positions at the UVA Curry School of Education, the US Navy, and a variety of other university and industry settings.
+
+

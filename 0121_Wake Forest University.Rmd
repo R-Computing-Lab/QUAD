@@ -1,0 +1,78 @@
+---
+title: "Wake Forest University"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## General Psychology Masters Program https://psychology.wfu.edu/  {-}
+
+## Program Mission  {-}
+Our graduate program is a research-oriented general Master’s program. As such, it provides broad training in psychology rather than training in a particular specialized area (e.g., clinical). Most of our students use our program to gain the preparation and qualifications to attend a high-quality doctoral program in their specific area of interest.   Our program is a good choice for students who know they want to complete doctoral work, but are not sure what area they want to specialize in. Additionally, it is a good choice for students who have good qualifications, but want to improve their qualifications even more to make themselves better prepared for the doctoral programs of their choice.
+
+The general Master’s program provides a strong basis for selecting a PhD program as well as a strong academic foundation for doctoral work. Most importantly, it provides considerable research experience – with a high degree of individual attention from graduate faculty. Your personal training would reflect a blend of your interests and the interests of the advisor who you’re paired with. Please see the [faculty web page](https://psychology.wfu.edu/about-the-department/faculty-and-staff/) for details on faculty research interests. The department has an excellent record of placing graduates in doctoral programs in all major areas of psychology.
+
+
+
+
+
+
+## Faculty and Research Interests  {-}
+We have 4 core quant faculty – Veronica Cole, Mike Furr, Mason Garrison, and Eric Stone –
+with expertise in behavior genetics, data visualization, integrative data analysis, structural
+equation modeling, measurement non-invariance, psychological measurement, and other
+exciting things!
+
+
+
+
+## General Curriculum  {-}
+We offer a terminal masters general psychology. All students take the following courses, although the timing of the courses changes depending on faculty availability. Below is the timing for our current graduate students.
+
+FIRST-YEAR FALL COURSES:  
+⦁	Research Design and Analysis I
+⦁	Seminar in Developmental Psychology
+⦁	Seminar in Social Psychology
+⦁	Directed Thesis Research FIRST-YEAR SPRING COURSES:  
+⦁	Research Design and Analysis II
+⦁	Human Cognition
+⦁	Seminar in Personality Research
+⦁	Directed Thesis Research SECOND-YEAR FALL COURSES:  
+⦁	Biological Psychology
+⦁	Thesis Research
+SECOND-YEAR SPRING COURSES:  
+⦁	Current Topics in Psychology: (Alternates)
+⦁	Introduction to Psychometrics and R
+⦁	Data Science for Psychologists with R
+
+
+
+
+## Admissions Criteria  {-}
+
+The Psychology Department enrolls 10 to 16 students each academic year. Admission is based on many factors, including but not limited to undergraduate GPA, GRE scores, research experience, letters of recommendation, and evidence of motivation. Although we do not have a strict “cut-off” for GRE scores or GPA, our past 3 year average GRE score is 315 (combined verbal and quantitative), and the average GPA is 3.76. We do accept students without a psychology major, particularly when they have the basic psychology training that is necessary for our program, such as Introductory Psychology, Research Methods, and Statistics. See the [FAQ](https://psychology.wfu.edu/graduate-program/graduate-program-faqs/) for more information on our admission procedure.
+
+
+
+
+## Admissions Timeline  {-}
+⦁	Jan 15: Application Deadline  
+⦁	Feb 1: We begin reviewing applications
+
+
+
+
+## Funding  {-}
+Most of our students receive both assistantships (employment positions with stipends) and scholarships (that pay for tuition). The remaining students typically receive either full or partial scholarships. For those without stipends, we try to help you find jobs on campus or at the Med School campus. You do not need to submit anything additional in order to be considered for tuition waivers (i.e., scholarships) and assistantships (i.e., stipends). Wake Forest’s Graduate School awards scholarships based on merit. Tuition is set by Wake Forest University Graduate School, not the Psychology Department. Please see the Graduate School’s web page for the latest information, https://graduate.wfu.edu/cost-financial-aid-reynolda/
+
+
+
+
+
+## Mentoring / Student Engagement Philosophy  {-}
+The department adopts a mentorship model of graduate education in which students work closely with a faculty advisor during their two years in our program. Typically there is a 2:1 graduate student:faculty ratio that provides the student with individualized attention and, therefore, superior training. Because our program is designed to prepare students for entry into doctoral programs, there is a strong emphasis on research. Students conduct both a first- year research project and a thesis. These projects typically result in conference presentations and/or publications.
+We admit students into the program rather than to work with individual faculty members. Nonetheless, we do our best to match students with their preferred advisor whenever possible, and thus having a good match with one or two faculty members is an important part of the admission decision. Thus, we encourage you to highlight at least one or two professors who might be good matches to your interests. If your interests are still broad, that’s fine, but provide us with some indication of the type of research you are interested in doing.
+Most faculty begin working with one new student each year; however, the faculty available to take new students in their lab varies from year to year for various reasons (e.g., sabbaticals, number of openings in a lab, etc.). You are welcome to contact a faculty member to see if she or he anticipates taking a student – please see the department’s faculty web page for research interests and contact information.

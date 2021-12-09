@@ -1,0 +1,67 @@
+---
+title: "University of Kansas"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Measurement, Statistics and Evaluation Program  https://education.umd.edu/measurement-statistics-evaluation-program {-}
+
+## Program Mission  {-}
+The Measurement, Statistics and Evaluation program at the University of Maryland prepares students to work in academia and across several industries as quantitative methodologists, psychometricians, data analysts/scientists, statisticians, and research analysts. 
+
+Our MS program provides students with a wide variety of analytical skills, including analysis, computation, and interpretation, whereas our PhD program focuses on training our students in methodological research through more advanced coursework and independent study. Our students take courses in causal inference, linear models, multilevel models, item response theory, instrumentation, computation and simulation, factor analysis, structural equation modeling, Bayesian inference, mixture modeling, social network analysis as well as specialized topics such as CAT, non-linear SEM, and estimation.
+
+
+
+## Faculty and Research Interests  {-}
+Faculty have diverse interests that include areas of psychometrics, item response theory, test theory, computer-based testing and response time models, measure development and validation, estimation and computation algorithms, structural equation models, latent growth models, finite mixture models, repeated measures models, causal inference methods, replication, survey design, analysis of survey data obtained under complex sampling designs, machine learning, Bayesian inference, and social network analysis. 
+
+In addition to methodological research, faculty work on research with direct impacts as well. Examples of recent projects include identifying biased test items on large-scale assessments; evaluating whether college course-taking policies may be hurting historically excluded students; validating measures across minoritized groups; and using social network analysis to understand student mobility.
+
+
+## We offer MS and PhD Programs!  {-}
+We offer a MS degree and a PhD. While our MS program can be considered a terminal degree program, many of our PhD students began their quantitative journeys in our MS program.
+
+
+
+
+
+
+## Admissions {-}
+Our MS and PhD programs require the general GRE, transcripts, and letters of recommendation. We admit students from a variety of backgrounds although we recommend at least one undergraduate course in statistics/quantitative methods and one course in calculus.
+
+
+ 
+
+
+## Admissions Timeline  {-}
+For US applicants, November 5, 2021 is our preferred deadline although we accept applications through January 14, 2022. For international applicants, October 1, 2021 is our preferred deadline although we accept international applications through December 17, 2021.
+
+
+
+
+
+
+## Funding  {-}
+We offer competitive 9 month and 12 month funding packages, and students in good standing receive funding. Some students choose to participate in external summer internships (AIR, ETS, College Board), or teach courses in the summer, or work with different faculty on research projects during the summer.
+
+
+## Mentoring / Student Engagement Philosophy  {-}
+Our program focuses on a student-centered approach to mentoring. Students are accepted as a cohort, and they are free to work with whomever they choose. Many of our students will work on research projects with several faculty members. For example, a student may have a research assistantship with one faculty member, be advised by a second, and do research with a third. Another student may choose to only work with one faculty member. Students will ultimately focus on a research area, and select one faculty member for their dissertation advisor
+
+
+
+
+
+
+
+## Example Careers  {-}
+Recent UMD graduates are working in academia (University of Alabama, Arizona State University, Champlain College), as psychometricians (ETS and AIR), as federal statisticians (FDA), as research scientists (AIR, Mathematica), and as data scientists (Google, HumRRO, Microsoft).
+
+
+
+
