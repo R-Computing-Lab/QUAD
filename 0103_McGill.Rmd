@@ -6,6 +6,7 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
 # McGill University {-}
 
 ## PhD in Experimental Psychology, Emphasis in Quantitative Psychology and Modelling  {-}
@@ -39,4 +40,4 @@ Admitted students are offered guaranteed funding of a minimum of $20k annual sti
 1-1 mentorship model, occasionally multiple faculty cosupervise. General approach is that an accepted student joins the lab of their mentor and they have 2-4 other faculty members on their advisory committee but primarily work with their primary mentor.
 
 ## Where Past Graduate Students Are Now  {-}
-Most recent graduate took a tenure track job. ¾ current faculty were hired in the past 3 years, so not many recent graduates
+Most recent graduate took a tenure track job. 75\% of current faculty were hired in the past 3 years, so not many recent graduates
