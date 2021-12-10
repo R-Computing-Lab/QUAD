@@ -1,14 +1,8 @@
----
-title: "University of Georgia"
-output: html_document
----
+# University of Georgia  {-}
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+## Graduate Programs in Quantitative Methodology  {-}
 
-
-## Graduate Programs in Quantitative Methodology  https://coe.uga.edu/academics/concentrations/quantitative-methodology {-}
+ https://coe.uga.edu/academics/concentrations/quantitative-methodology
 
 ## Program Mission  {-}
 ⦁	Increase the effectiveness of research and assessment in the social sciences by advancing quantitative methodology through state-of-the-art research  
