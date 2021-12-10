@@ -1,14 +1,9 @@
----
-title: "University of Kansas"
-output: html_document
----
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+# University of Kansas {-}
 
+## Brain, Behavior, and Quantitative Science Program {-}
 
-## Brain, Behavior, and Quantitative Science Program  http://bbq.ku.edu/ {-}
+ http://bbq.ku.edu/ 
 
 ## Program Mission  {-}
 Faculty and students in the Brain, Behavior, and Quantitative Science program at KU seek a better understanding of human behavior through interdisciplinary approaches and translate that basic understanding to improve the development and well‐being of individuals in society. We work toward this goal by developing better models of behavior, cognition, and brain function through translational research and the creation of new computational and statistical tools that allow us to extract meaningful and useful conclusion from complex data.  
@@ -26,11 +21,6 @@ The Brain, Behavior, and Quantitative Science program has 7 affiliated faculty m
 We offer a single doctoral degree in Psychology; students admitted to this program enter with the expectation of continuing graduate study through the Ph.D. as the department does not admit terminal master's students. Although most applicants have majored in psychology as undergraduates, this is not required. 
 
 The Ph.D. program in Brain, Behavior, and Quantitative Science provides instruction and research training for students pursuing careers in the academic, public, and private sectors that draw on the research and scholarly interests of the group. A key aspect of the program is that each student’s training plan is individually tailored and fit to each student’s personal goals. In general, though, a strong emphasis is placed on students developing a fundamental understanding of psychological theory, acquiring advanced statistical and computational skills and expertise, and learning how to apply this science to improve the development and/or well‐being of individuals in society. Toward this end, the program requires both coursework and constant involvement in the research endeavor, whether in the laboratory or in the field, and (where appropriate) active engagement in opportunities to translate basic science into practice or application.
-.
-
-
-
-
 
 
 ## Admissions Criteria  {-}
@@ -54,16 +44,12 @@ PhD applications are due on December 1, 2021 for admission in Fall 2022. A short
 
 
 
-
-
-
 ## Funding  {-}
 Accepted students typically are offered either a teaching assistantship or research assistantship. Because of the importance of funding in academic research, the BBQ also supports and urges students to actively consider and pursue opportunities for external funding such as graduate research fellowships.
 
 
 ## Mentoring / Student Engagement Philosophy  {-}
-The BBQ’s takes an apprentice-style approach to training so there is both hands-on training working with faculty on set of research of projects and classroom instruction. 
-
+The BBQ's takes an apprentice-style approach to training so there is both hands-on training working with faculty on set of research of projects and classroom instruction. 
 
 
 
