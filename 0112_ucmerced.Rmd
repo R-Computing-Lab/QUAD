@@ -1,14 +1,9 @@
----
-title: "UC Merced"
-output: html_document
----
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+# UC Merced
 
+## Quantitative Methods, Measurement, and Statistics  {-}
 
-## Quantitative Methods, Measurement, and Statistics https://psychology.ucmerced.edu/graduate-program/areas-focus/quantitative {-}
+https://psychology.ucmerced.edu/graduate-program/areas-focus/quantitative
 
 ## Program Mission  {-}
 Faculty in the Quantitative Methods, Measurement, and Statistics (QMMS) program create the methods used to gather data and the statistics used to analyze them.
@@ -23,15 +18,9 @@ Faculty in the QMMS program have strengths in a wide array of topics, including 
 
 
 
-
-
 ## General Curriculum  {-}
 Students are admitted into the PhD program, and they have the option to earn a master’s
 degree along the way.
-
-
-
-
 
 
 ## Admissions Criteria  {-}
@@ -50,17 +39,15 @@ Applications are due December 1, 2021. Soon after this date, the QMMS faculty wi
 
 
 
-
-
 ## Funding  {-}
+
 Students receive funding support for six years, with options for extensions if needed. Student funding is through research- or teaching-assistant opportunities. In addition, there are a variety of fellowships that students can apply for, and summer funding is provided for all students through the department.
 
 ## Mentoring / Student Engagement Philosophy  {-}
+
 We have a very hands-on approach to mentoring, and our goal is to train independent researchers in quantitative methodology. Students are continuously engaged in research starting from their first day in the program. Each QMMS faculty member has a close relationship with the students working in their lab. Students will meet with their primary advisor in a one-on-one meeting weekly, and faculty with multiple students also hold regular lab meetings. Students work on individualized projects under their primary advisor, gaining valuable experiences in a variety of research activities. The QMMS faculty are a very close group, and we often collaborate on research projects, which makes co-advising a viable option for students interested in gaining intensive training from multiple labs.
 
 Professional development is an important element of our training philosophy. Each student has an advisory committee consisting of at least three faculty members (including the primary advisor), who provide support and mentoring on a variety of topics. Aside from research- related support, the advisory committee regularly provides guidance on other important professional topics such as teaching development, how to be an effective public speaker, and how to successfully navigate the job market.
-
-
 
 
 
