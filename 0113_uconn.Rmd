@@ -1,12 +1,9 @@
----
-title: "University of Connecticut"
-output: html_document
----
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+# University of Connecticut {-}
 
 ## Graduate programs in Research Methods, Measurement, and Evaluation (RMME) Program Mission {-}
 
@@ -28,9 +25,6 @@ Our curriculum includes courses in educational statistics, measurement, program 
 
 
 
-
-
-
 ## Admissions Criteria  {-}
 At the Ph.D. level, we look for evidence that the student will be successful in both the coursework and the sustained independent research required to complete a doctorate. Although academic and research indicators such as undergraduate coursework, grades, and research experience enter into the decision making process, one of the most important elements of the application packet is the personal statement, which provides information about the students’ research interests, potential fit with the program, and future academic
 and career goals.
@@ -49,6 +43,7 @@ The PhD program offers funding in the form of graduate assistantships to full-ti
 
 
 ## Mentoring / Student Engagement Philosophy  {-}
+
 At the PhD level, students receive a great deal of individualized mentoring from their major advisor and program faculty. Generally, the first year or two of the PhD program is more course heavy, as students develop competencies across our six areas. During this time, students generally join research projects led by faculty. As students progress through the program, they take increasing ownership over research projects, under the guidance and mentorship of RMME faculty. They also develop an academic identity and an area of research specialization in a specific area within RMME. The dissertation represents the culmination of the students’ development as an independent researcher.
 
 
@@ -58,12 +53,12 @@ At the PhD level, students receive a great deal of individualized mentoring from
 
 ## Where Past Graduate Students Are Now  {-}
 Our Ph.D. graduates have been employed in a variety of positions in academia, government, non-profit and for-profit companies. A partial list of present employers of program graduates is below:
-⦁	Measurement Fellow, Law School Admissions Council  
-⦁	Connecticut State Department of Education Performance Office.  
-⦁	Associate Professor, Texas A&M  
-⦁	Assistant Professor, McGill University (Dr. Jessica Flake, one of the organizers of this event, is a graduate of our PhD program!)  
-⦁	Assistant Professor, Yale University  
-⦁	Statistician, Yale University  
+- Measurement Fellow, Law School Admissions Council  
+- Connecticut State Department of Education Performance Office.  
+- Associate Professor, Texas A\&M  
+- Assistant Professor, McGill University (Dr. Jessica Flake, one of the organizers of this event, is a graduate of our PhD program!)  
+-	Assistant Professor, Yale University  
+- Statistician, Yale University  
 ⦁	Senior Research Associate, Adelphi Values  
 ⦁	Associate Director of Global Evidence and Outcomes, Takeda Pharmaceuticals.  
 ⦁	Analyst, U.S. Government Accountability Office  
