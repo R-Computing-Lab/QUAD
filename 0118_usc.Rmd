@@ -1,14 +1,9 @@
----
-title: "University of Southern California"
-output: html_document
----
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+# University of Southern California  {-}
 
+## Quantitative Methods and Computational Psychology Program {-}
 
-## Quantitative Methods and Computational Psychology Program https://dornsife.usc.edu/psyc/quantitative-methods/  {-}
+ https://dornsife.usc.edu/psyc/quantitative-methods/  
 
 ## Program Mission  {-}
 The program in Quantitative Methods and Computational Psychology (QMCP) at USC trains students in both the basics and the advances in methodological, statistical, and computational tools to study human behavior. Our program focuses on the development of strong research skills, including basic statistics, robust statistics, multivariate measurement, multilevel and longitudinal data analysis, experimental design and methods, decision making, cumulative reviews, behavior, and molecular genetics. We teach and encourage computer programming of all types (e.g., SAS, SPSS, R) as well as train students about new advances in computational modeling (LISREL, Mplus, CART, Keras). We emphasize the application of these research skills to matters of real-world importance needed for any topical area of behavioral science.
@@ -68,7 +63,7 @@ We use a holistic admission procedure by considering applicants’ academic perf
 ⦁	Official transcripts  
 ⦁	Resume/CV  
 ⦁	(For international applicants)   TOEFL/IELTS score  
-.
+
 
 ## Admissions Timeline  {-}
 Application deadline: December 1 Campus visit: January - February
