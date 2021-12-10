@@ -1,15 +1,7 @@
----
-title: "UCLA"
-output: html_document
----
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+# University of California Irvine  {-}
 
-
-## Department of Cognitive Sciences
- {-}
+## Department of Cognitive Sciences {-}
 
 ## Program Mission  {-}
 The Ph.D. degree programs prepare students for research and teaching careers in academia, industry, and government. The emphasis is on modern techniques of experimentation and theory construction. Special attention is given to providing hands-on research experience and equipping students with sophisticated mathematical and computing skills.
@@ -48,10 +40,8 @@ During the summer of the first three years, our students receive guaranteed stip
 
 
 
-
 ## Mentoring / Student Engagement Philosophy  {-}
 Please see our mentoring and advising policies on our website: http://apply.cogs.ci/?p=mentoring
-
 
 
 
@@ -59,5 +49,3 @@ Please see our mentoring and advising policies on our website: http://apply.cogs
 Graduate students from UCI’s cognitive sciences program have gone on to work in high-tech and research consultancy companies; government, science, and technology labs; and in professorial posts around the world.
 
 Recent placements include Apple. Air Force Research Labs, Army Research Labs, Blizzard Entertainment, Carnegie Mellon University, Google, Johns Hopkins University, MIT, Mind Research Network, Navy Research Labs. Rutgers University, Toyota, UC Berkeley, UCLA, University of Pennsylvania, University of Zurich, and Yale University
-
-
