@@ -1,8 +1,8 @@
-# (PART\*) Programs {-}
+
 
 # Quantitative training programs information sheets {-}
 
-On the next pages, the following programs have provided information sheets.
+On the next section, the following programs have provided information sheets.
 
 
 ```{r include = FALSE}
@@ -36,3 +36,5 @@ library(DT)
 - University of South Carolina
 - University of Wisconsin
 - Wake Forest University
+
+# (PART\*) Programs {-}

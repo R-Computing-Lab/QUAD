@@ -1,13 +1,5 @@
----
-title: "Penn State University"
-output: html_document
----
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-
+# Penn State University {-}
 ## PhD in Human Development and Family Studies Methodology Specialization  {-}
 
 ## Program Mission  {-}
@@ -15,16 +7,16 @@ The PhD program in Human Development and Family Studies (HDFS) is designed to he
 
 
 
-
 ## Faculty and Research Interests  {-}
+
 There are six core faculty members in the Quantitative Developmental Systems Methodology Core:  
 
-⦁	Sy-Miin Chow  
-⦁	Peter Molenaar  
-⦁	Zita Oravecz  
-⦁	Timothy Brick  
-⦁	Michael Hunter  
-⦁	Zachary Fisher  
+- 	Sy-Miin Chow  
+- 	Peter Molenaar  
+- 	Zita Oravecz  
+- 	Timothy Brick  
+- 	Michael Hunter  
+- 	Zachary Fisher  
 
 with broad expertise in methods for understanding human health and behavior at multiple levels and time-scales. Specific interests include intensive longitudinal data collection methods (e.g. ecological momentary assessments, smartphone sensors, wearable and digital health measures, geospatial data); associated analyses such as structural equation modeling, dynamical systems, Bayesian modeling and estimation, data mining and machine learning approaches, intervention optimization and real-time adaptive intervention, network analysis, and statistical programming; and applications of these methods to diverse areas, including
 
@@ -42,12 +34,12 @@ The two most important requirements are (1) evidence of academic aptitude, inclu
 
 Applicants are required to submit:  
 
-⦁	A scientific writing sample.  
-⦁	Official transcripts.  
-⦁	Curriculum Vitae or Resume (optional).  
-⦁	Statement of Professional and Career Plans.  
-⦁	DEI Statement  
-⦁	Three letters of recommendation.  
+- 	A scientific writing sample.  
+- 	Official transcripts.  
+- 	Curriculum Vitae or Resume (optional).  
+- 	Statement of Professional and Career Plans.  
+- 	DEI Statement  
+- 	Three letters of recommendation.  
 
 When you are ready to apply visit the [Grad School Admissions and Program Information Portal](https://gradschool.psu.edu/graduate-admissions/how-to-apply/new-applicants/), which will guide you through the materials required by the University, as well as program-specific required documents.  
 
@@ -67,19 +59,19 @@ Advisor assignments are made based of a mutual interest on the part of the stude
 
 ## Where Past Graduate Students Are Now  {-}
 Graduates from HDFS have been successful in both academic and industry settings. A few recent examples include:  
-⦁	Associate Professor, UC Davis  
-⦁	Assistant Professor, Purdue University  
-⦁	Assistant Professor, University of Pennsylvania  
-⦁	Assistant Professor, Arizona State University  
-⦁	Assistant Professor, Claremont Graduate University  
-⦁	Research Scientist, ACTNext  
-⦁	Visualization Specialist, University of Virginia  
-⦁	Data Scientist, Uber  
-⦁	Data Scientist, Penguin Random House  
-⦁	Biostatistician, Novartis  
-⦁	Director, The Center for Implementation  
-⦁	Senior Research Analyst, Office of Planning, US HHS  
-⦁	Survey Researcher, Mathematica Policy Research  
-⦁	Analyst, Abt Associates Inc  
+- 	Associate Professor, UC Davis  
+- 	Assistant Professor, Purdue University  
+- 	Assistant Professor, University of Pennsylvania  
+- 	Assistant Professor, Arizona State University  
+- 	Assistant Professor, Claremont Graduate University  
+- 	Research Scientist, ACTNext  
+- 	Visualization Specialist, University of Virginia  
+- 	Data Scientist, Uber  
+- 	Data Scientist, Penguin Random House  
+- 	Biostatistician, Novartis  
+- 	Director, The Center for Implementation  
+- 	Senior Research Analyst, Office of Planning, US HHS  
+- 	Survey Researcher, Mathematica Policy Research  
+- 	Analyst, Abt Associates Inc  
 
 

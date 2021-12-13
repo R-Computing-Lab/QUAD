@@ -2,9 +2,9 @@
 title: "Pathways to Graduate School in Quantitative Methods"
 subtitle: "Specific Information about Individual Programs"
 author: 
-- A. Nayena Blankson, PhD Professor, Spelman College^[Stuff Can Go in Footnotes ]
-- Jessica K. Flake, PhD, Assistant Professor, McGill University^[Stuff Can Go in Footnotes here also ]
-- S. Mason Garrison, PhD, Assistant Professor, Wake Forest University 
+- A. Nayena Blankson, PhD Professor, Spelman College
+- Jessica K. Flake, PhD, Assistant Professor, McGill University
+- S. Mason Garrison^[Website Maintainer], PhD, Assistant Professor, Wake Forest University 
 - Jessica Logan, PhD, Assistant Professor, The Ohio State University 
 - Matthew Madison, PhD, Assistant Professor, University of Georgia
 - Amanda K. Montoya, PhD, Assistant Professor, University of California, Los Angeles 
@@ -12,6 +12,7 @@ author:
 - Mijke Rhemtulla, PhD, Associate Professor, University of California, Davis 
 - Laura Stapleton, PhD, Associate Dean and Professor, University of Maryland 
 - Tracy Sweet, PhD, Associate Professor, University of Maryland
+
 date: "`r Sys.Date()`"
 knit: "bookdown::render_book"
 site: bookdown::bookdown_site

@@ -1,14 +1,8 @@
----
-title: "The University of British Columbia"
-output: html_document
----
+# The University of British Columbia  {-}
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+## Quantitative Methods Program {-}
 
-
-## Quantitative Methods Program https://psych.ubc.ca/graduate/research-streams/quantitative-methods/ {-}
+https://psych.ubc.ca/graduate/research-streams/quantitative-methods/
 
 ## Program Mission  {-}
 Students in our quantitative methods program will gain training in the theory and application of quantitative methods for psychological research and contribute to the development of new knowledge in the field of quantitative psychology. We seek to develop a foundational knowledge for graduate students of all areas and to provide state-of-the-art training for graduate students seeking a PhD in this field. The graduate program provides a rigorous curriculum, opportunities for experience in teaching, and extensive training and experience in research.
@@ -35,8 +29,7 @@ intake (in September) per year and applications will not be accepted after the D
 
 
 ## Funding  {-}
-The MA and PhD programs are both fully funded, and students will receive a minimum stipend of $23,000 CAD per year (the average funding rate for students is typically between
-$27,000 and $30,000) via a combination of teaching assistantships, research assistantships, and grant funding. Students who are Canadian permanent residents are expected to apply for tri-council (NSERC, SSHRC, or CIHR) grants, and international students are expected to apply for internal UBC grants.
+The MA and PhD programs are both fully funded, and students will receive a minimum stipend of \$23,000 CAD per year (the average funding rate for students is typically between \$27,000 and \$30,000) via a combination of teaching assistantships, research assistantships, and grant funding. Students who are Canadian permanent residents are expected to apply for tri-council (NSERC, SSHRC, or CIHR) grants, and international students are expected to apply for internal UBC grants.
 
 
 ## Mentoring / Student Engagement Philosophy  {-}
@@ -46,5 +39,4 @@ Students will work closely with quantitative faculty members, being actively inv
 
 ## Where Past Graduate Students Are Now  {-}
 Recent graduates of the quantitative methods program have gone on to obtain tenured or tenure-track quantitative methods faculty positions at universities in the United States and Canada (e.g., UC-Davis, McGill, York) as well as careers as methodological consultants and project managers in industry.
-
 

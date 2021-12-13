@@ -1,5 +1,5 @@
 
-# UC Merced
+# UC Merced {-}
 
 ## Quantitative Methods, Measurement, and Statistics  {-}
 
