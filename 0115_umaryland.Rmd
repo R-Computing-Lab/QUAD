@@ -1,15 +1,14 @@
----
-title: "University of Kansas"
-output: html_document
----
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+# University of Maryland College of Education  {-}
 
-## Measurement, Statistics and Evaluation Program  https://education.umd.edu/measurement-statistics-evaluation-program {-}
+## Measurement, Statistics and Evaluation Program {-}
 
+ https://education.umd.edu/measurement-statistics-evaluation-program 
+ 
 ## Program Mission  {-}
 The Measurement, Statistics and Evaluation program at the University of Maryland prepares students to work in academia and across several industries as quantitative methodologists, psychometricians, data analysts/scientists, statisticians, and research analysts. 
 
