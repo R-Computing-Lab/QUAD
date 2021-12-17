@@ -13,9 +13,9 @@ The quantitative psychology concentration has a dual focus that trains students 
 
 ## Faculty and Research Interests  {-}
 
-⦁	Dr. Amanda Fairchild- Mediation analysis; causality; applied quantitative methods  
-⦁	Dr. Dexin Shi- SEM; psychometrics; missing data; causality  
-⦁	Dr. Alberto Maydeu-Olivares- SEM; item response theory; choice models  
+- Dr. Amanda Fairchild- Mediation analysis; causality; applied quantitative methods  
+- Dr. Dexin Shi- SEM; psychometrics; missing data; causality  
+- Dr. Alberto Maydeu-Olivares- SEM; item response theory; choice models  
 
 
 ## General Curriculum  {-}
