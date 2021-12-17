@@ -1,5 +1,7 @@
 
 # Penn State University {-}
+
+
 ## PhD in Human Development and Family Studies Methodology Specialization  {-}
 
 ## Program Mission  {-}
@@ -12,7 +14,7 @@ The PhD program in Human Development and Family Studies (HDFS) is designed to he
 There are six core faculty members in the Quantitative Developmental Systems Methodology Core:  
 
 - 	Sy-Miin Chow  
-- 	Peter Molenaar  
+- 	Peter Molenaar   
 - 	Zita Oravecz  
 - 	Timothy Brick  
 - 	Michael Hunter  
@@ -37,9 +39,9 @@ Applicants are required to submit:
 - 	A scientific writing sample.  
 - 	Official transcripts.  
 - 	Curriculum Vitae or Resume (optional).  
-- 	Statement of Professional and Career Plans.  
-- 	DEI Statement  
-- 	Three letters of recommendation.  
+- 	Statement of Professional and Career Plans.   
+- 	DEI Statement   
+- 	Three letters of recommendation.   
 
 When you are ready to apply visit the [Grad School Admissions and Program Information Portal](https://gradschool.psu.edu/graduate-admissions/how-to-apply/new-applicants/), which will guide you through the materials required by the University, as well as program-specific required documents.  
 

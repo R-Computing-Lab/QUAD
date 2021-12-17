@@ -1,17 +1,18 @@
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+
 # The Ohio State University {-}
 
 ## Quantitative Psychology Program  {-}
 
 ## Program Mission  {-}
+
+
 The overall mission of the quantitative psychology program at The Ohio State University is to produce scholarly research in the development and application of quantitative methodology. Faculty are engaged in research which tends to be interdisciplinary, which prepares graduate students to be successful in careers either in academia or industry. The area also contributes to the pedagogy of quantitative methods to undergraduates, graduates, and researchers.
 
 
 
 ## Faculty and Research Interests  {-}
+
 Research interests of the faculty focuses on the following methodological and modeling traditions: psychometrics (measurement of psychological concepts), latent variable modeling (factor analysis, covariance structure models, mixed models), Bayesian methods, uncertainty quantification (model diagnostics and sensitivity analysis), and research design. These methodological and modeling traditions are often broadly applied to data on responses to tests and questions, reaction time and response data, choice data, observational, experimental and quasi-experimental data, and brain functioning data.
 
 
@@ -21,6 +22,7 @@ PhD only
 
 
 ## Admissions Criteria  {-}
+
 Admission is based on GPA, courses taken, statement of purpose, CV/Resume, and letters of recommendation. Due to COVID-19, for the admission year Autumn 2021 only, the GRE will not be required but recommended for admission.
 
 ## Admissions Timeline  {-}
@@ -35,14 +37,14 @@ Fellowships, research assistantships, and teaching associateships are available 
 The program offers many opportunities for research completed either collaboratively or independently. Interdisciplinary collaboration between areas with psychology or across disciplines is encouraged. In addition, activities associated with teaching or research assistantships will provide further training experience. The program maintains an active alumni network. Depending on individual interests, the program is flexible enough to prepare students for an academic career or for a research career in the private sector.
 
 ## Where Past Graduate Students Are Now  {-}
--	Joonsuk Park – Data Scientist, Duetto Research
--	Amanda K. Montoya – Assistant Professor, UCLA
--	Nicholas Rockwood – Assistant Professor, Loma Linda University
--	Carrie Houts – Director of Psychometrics, Vector Psychometrics
--	Brandon Turner – Associate Professor, The Ohio State University
--	Melissa Knoll – Section Chief of Decision Making and Behavioral Sciences and Division of the Consumer Financial Protection Bureau
--	Aleks Sinayev - Quantitative User Experience Researcher, Google
--	Longjuan Liang – Education Testing Service
--	Nancy Briggs – Statistician, The University of Adelaide, Australia
--	Ann-Renee Blais – Experimental Psychologist, Department of National Defense and the Canadian Armed Forces, Ottawa
--	Shaobo Hang – SunTrust Bank, Atlanta
+-	Joonsuk Park – Data Scientist, Duetto Research  
+-	Amanda K. Montoya – Assistant Professor, UCLA  
+-	Nicholas Rockwood – Assistant Professor, Loma Linda University  
+-	Carrie Houts – Director of Psychometrics, Vector Psychometrics  
+-	Brandon Turner – Associate Professor, The Ohio State University  
+-	Melissa Knoll – Section Chief of Decision Making and Behavioral Sciences and Division of the Consumer Financial Protection Bureau  
+-	Aleks Sinayev - Quantitative User Experience Researcher, Google  
+-	Longjuan Liang – Education Testing Service  
+-	Nancy Briggs – Statistician, The University of Adelaide, Australia  
+-	Ann-Renee Blais – Experimental Psychologist, Department of National Defense and the Canadian Armed Forces, Ottawa  
+-	Shaobo Hang – SunTrust Bank, Atlanta  

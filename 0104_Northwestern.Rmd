@@ -1,8 +1,4 @@
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 # Northwestern University {-}
 
 ## Graduate Programs in Statistics  {-}
@@ -15,9 +11,9 @@ The Department of Statistics at Northwestern is committed to teaching the theory
 The department includes 13 faculty members with interests that cover a wide range of
 statistical methods. For those interested in ‘social statistics’, this includes:  
 
--	Larry Hedges, Board of Trustees Professor of Statistics  
--	Bruce Spencer, Professor of Statistics  
--	Elizabeth Tipton, Associate Professor of Statistics  
+-	Larry Hedges, Board of Trustees Professor of Statistics      
+-	Bruce Spencer, Professor of Statistics   
+-	Elizabeth Tipton, Associate Professor of Statistics    
 
 These three faculty are also jointing appointed to the Institute for Policy Research, an interdisciplinary center that focuses on research related to public policy.  
 
@@ -48,11 +44,11 @@ Students interested in social statistics often join the [Statistics for Evidence
 
 ## Where Past Graduate Students Are Now  {-}
 
-Recent graduates who focus on ‘social statistics’ include:
--	Mindy Hong (2019), Post-doc, Feinberg School of Medicine, Northwestern
+Recent graduates who focus on ‘social statistics’ include:  
+-	Mindy Hong (2019), Post-doc, Feinberg School of Medicine, Northwestern  
 -	Jacob Schauer (2018), Asst Prof, Feinberg School of Medicine, Northwestern
--	Rachel Ktsanes (2017), Senior Statistical Modeler, PayNet
--	Wendy Chan (2016), Asst Prof, Graduate School of Education, University of Pennsylvania
--	Zachary Seeskin (2016), Senior Statistician, NORC, University of Chicago
--	Arend Kuyper (2015), Asst Prof of Instruction, Statistics Department, Northwestern
--	James Pustejovsky (2013), Assoc Prof, Department of Educational Psychology, University of Wisconsin-Madison
+-	Rachel Ktsanes (2017), Senior Statistical Modeler, PayNet  
+-	Wendy Chan (2016), Asst Prof, Graduate School of Education, University of Pennsylvania  
+-	Zachary Seeskin (2016), Senior Statistician, NORC, University of Chicago  
+-	Arend Kuyper (2015), Asst Prof of Instruction, Statistics Department, Northwestern  
+-	James Pustejovsky (2013), Assoc Prof, Department of Educational Psychology, University of Wisconsin-Madison  

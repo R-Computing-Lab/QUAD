@@ -5,8 +5,8 @@
  https://coe.uga.edu/academics/concentrations/quantitative-methodology
 
 ## Program Mission  {-}
-⦁	Increase the effectiveness of research and assessment in the social sciences by advancing quantitative methodology through state-of-the-art research  
-⦁	Train students to become high-quality researchers in the areas of psychometrics, statistics, measurement, and assessment.  
+-	Increase the effectiveness of research and assessment in the social sciences by advancing quantitative methodology through state-of-the-art research  
+-	Train students to become high-quality researchers in the areas of psychometrics, statistics, measurement, and assessment.  
 
 
 
@@ -25,14 +25,18 @@ We have both a master’s and PhD program. The program curriculum is flexible wi
 
 
 ## Admissions Criteria  {-}
-⦁	Strong background (or potential) for research in quantitative methods
-⦁	Research interests aligned with program/faculty
+
+
+-	Strong background (or potential) for research in quantitative methods
+-	Research interests aligned with program/faculty
 
 
  
 
 
 ## Admissions Timeline  {-}
+
+
 All applications are due December 1 for funding consideration. Decisions are made in February-March.
 
 
@@ -41,9 +45,13 @@ All applications are due December 1 for funding consideration. Decisions are mad
 
 
 ## Funding  {-}
+
+
 Students are funded through a variety of research and teaching assistantships.
 
 ## Mentoring / Student Engagement Philosophy  {-}
+
+
 Students work closely with faculty early and often, engaging in research activities. As students progress in coursework and build confidence in research skills, they conduct research independently with faculty support. We have a bi-weekly doctoral seminar, where
 all students and faculty meet and discuss research and professional development topics of interest to students.
 
@@ -54,6 +62,8 @@ all students and faculty meet and discuss research and professional development 
 
 
 ## Where Past Graduate Students Are Now  {-}
+
+
 UGA QM graduates have had careers in academia (University of Miami, James Madison University), educational testing organizations (ETS, ACT), medical licensure boards (NCCPA, NBME), state departments of education, local school districts, research organizations, and corporations.
 
 

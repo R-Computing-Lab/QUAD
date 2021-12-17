@@ -24,16 +24,20 @@ We offer a PhD program in which students may choose to get their Master’s degr
 
 
 ## Admissions Criteria  {-}
-⦁	Applicants are required to submit a Statement of Purpose, Personal History and Diversity statement, 3 letters of recommendation, and unofficial transcripts.  
-⦁	GRE scores have been waived for fall 2021  
-⦁	The application fee is $120 (U.S. applicants) or $140 (international applicants)  
-⦁	For more detail about each required component, please see here: https://psychology.ucdavis.edu/graduate/how-to-apply    
-⦁	Full admissions requirements (e.g., GPA and TOEFL minimums) are described here, as well as information about fee waivers:    
-⦁	https://grad.ucdavis.edu/admissions/admission-requirements  
+
+
+-	Applicants are required to submit a Statement of Purpose, Personal History and Diversity statement, 3 letters of recommendation, and unofficial transcripts.  
+-	GRE scores have been waived for fall 2021  
+-	The application fee is $120 (U.S. applicants) or $140 (international applicants)  
+-	For more detail about each required component, please see here: https://psychology.ucdavis.edu/graduate/how-to-apply    
+-	Full admissions requirements (e.g., GPA and TOEFL minimums) are described here, as well as information about fee waivers:    
+-	https://grad.ucdavis.edu/admissions/admission-requirements  
 
 
 
 ## Admissions Timeline  {-}
+
+
 -	December 1 Application Deadline  
 -	3rd week of December Interview invitations will be emailed to interview candidates  
 - Late January/Early February: Interview Days  
@@ -43,11 +47,15 @@ We offer a PhD program in which students may choose to get their Master’s degr
 
 
 ## Funding  {-}
+
+
 Students are funded through a mix of teaching assistantships, research assistantships, and fellowships. More information is here: https://psychology.ucdavis.edu/graduate/graduate-program/graduate-student-funding-and-financial-support
 
 
 
 ## Mentoring / Student Engagement Philosophy  {-}
+
+
 All students have a primary mentor who is responsible for their training, and in whose lab they primarily carry out their research. Students may change advisors during their program, and they may be co-advised. Many students do research projects in several labs over the course of their degree. All students have a 3-person advising committee with whom they meet yearly to discuss their progress, goals and ambitions.
 
 

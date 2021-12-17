@@ -1,17 +1,15 @@
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 # University of Connecticut {-}
 
 ## Graduate programs in Research Methods, Measurement, and Evaluation (RMME) Program Mission {-}
 
 ## Program Mission  {-}
+
 The mission of RMME is to conduct high quality research, training, and service in the areas of statistical methods (including latent variable and multilevel modeling), educational and psychological measurement (including psychometrics), research design and quantitative research methodology, and program evaluation. Our rigorous graduate curriculum provides training to students who wish to become psychometricians, quantitative methodologists, and evaluation professionals in social, behavioral, or educational fields, as well as for those who wish to pursue academic careers as faculty, teaching coursework in quantitative research methods, measurement, or program evaluation.
 
 
 ## Faculty and Research Interests  {-}
+
 We currently have 5 full-time faculty teaching in our program. Faculty research interests span a wide range of topics in the areas of psychometrics, measurement, evaluation and applied statistics (including modeling). Example research interests of faculty include latent variable modeling, methods for reproducible science, instrument design, assessing and measuring school effectiveness, research on evaluation, measurement of implementation fidelity, accounting for multi-level structures in causal observational studies and generalizing the results of randomized controlled trials to target populations. Additional information is available here:
 https://rmme.education.uconn.edu/selected-current-research-projects-for-mea-faculty/
 
@@ -26,12 +24,14 @@ Our curriculum includes courses in educational statistics, measurement, program 
 
 
 ## Admissions Criteria  {-}
+
 At the Ph.D. level, we look for evidence that the student will be successful in both the coursework and the sustained independent research required to complete a doctorate. Although academic and research indicators such as undergraduate coursework, grades, and research experience enter into the decision making process, one of the most important elements of the application packet is the personal statement, which provides information about the students’ research interests, potential fit with the program, and future academic
 and career goals.
  
 
 
 ## Admissions Timeline  {-}
+
 PhD applications are due December 1st for full funding consideration. Masters applications are accepted on a rolling basis until June 1.
 
 
@@ -39,6 +39,7 @@ PhD applications are due December 1st for full funding consideration. Masters ap
 
 
 ## Funding  {-}
+
 The PhD program offers funding in the form of graduate assistantships to full-time PhD students. These are awarded on a competitive basis. Research and teaching assistantships fully cover the cost of tuition and also provide group health insurance. Typically, we are able to fund 3-4 incoming PhD students per year, and historically, such students are funded for the duration of their PhD program, as long as they maintain adequate academic progress and perform satisfactorily in their assigned assistantship duties. Occasionally, there is funding available for on-campus Masters students. The most competitive incoming students also compete for University fellowships and College level awards. Some students secure external funding from government or private agencies to support them as they pursue their degrees. Many of our students participate in paid summer internships at least once during the PhD program, and summer assistantships are often available to continue work on externally funded research projects over the summer break.
 
 
@@ -52,6 +53,7 @@ At the PhD level, students receive a great deal of individualized mentoring from
 
 
 ## Where Past Graduate Students Are Now  {-}
+
 Our Ph.D. graduates have been employed in a variety of positions in academia, government, non-profit and for-profit companies. A partial list of present employers of program graduates is below:
 - Measurement Fellow, Law School Admissions Council  
 - Connecticut State Department of Education Performance Office.  
@@ -59,9 +61,9 @@ Our Ph.D. graduates have been employed in a variety of positions in academia, go
 - Assistant Professor, McGill University (Dr. Jessica Flake, one of the organizers of this event, is a graduate of our PhD program!)  
 -	Assistant Professor, Yale University  
 - Statistician, Yale University  
-⦁	Senior Research Associate, Adelphi Values  
-⦁	Associate Director of Global Evidence and Outcomes, Takeda Pharmaceuticals.  
-⦁	Analyst, U.S. Government Accountability Office  
+-	Senior Research Associate, Adelphi Values  
+-	Associate Director of Global Evidence and Outcomes, Takeda Pharmaceuticals.  
+-	Analyst, U.S. Government Accountability Office  
 
 
 

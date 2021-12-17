@@ -5,6 +5,7 @@
 https://psychology.nd.edu/graduate-programs/areas-of-study/quantitative/
 
 ## Program Mission  {-}
+
 The quantitative area emphasizes a broad range of topics, including traditional analysis of variance and regression, multivariate analysis, categorical data analysis, structural equation modeling (SEM), item response theory, longitudinal analysis, Baysian analysis, finite mixture modeling, computational statistics, and statistical learning methods (i.e., data-mining).
 
 Quantitative students typically focus on methods development and/or evaluation, but can also apply these methods to a topic in a substantive area of psychology, such as cognitive, clinical, developmental, of behavior genetics.
@@ -21,6 +22,7 @@ As in all of our areas, there is great flexibility of curriculum, and students m
 
 
 ## Faculty and Research Interests  {-}
+
 ⦁	Ying (Alison) Cheng, Professor. Dr. Ying "Alison" Cheng's research focuses on psychological and educational measurement. In particular, she is interested in theoretical development and applications of item response theory (IRT), including computerized adaptive testing (CAT), test equity across different ethnicity/gender groups (formally known as different item functioning or DIF), classification accuracy and consistency with licensure/certification of state graduation exams. Recently she is working on cognitive diagnostic models and their applications to CAT. https://lambslab.nd.edu/  
 
 
