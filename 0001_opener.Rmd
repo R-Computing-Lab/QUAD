@@ -22,17 +22,3 @@ embed_url("https://youtu.be/1eu2FEY-ciM") %>%
   use_align("center")
 ```
 
-## Meet Mason
-
-```{r,echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=1IOCKxgowaQ") %>%
-  use_align("center")
-```
-
-## Website Tour
-
-```{r, echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=Fq_hAQd78zo") %>%
- use_align("center")
-```
-
